@@ -40,5 +40,7 @@ io.sockets.on('connection', function (socket) {
   });
 });
 
-app.listen(1337);
-console.log('Listening on port 1337');
+var port = process.argv[1];
+
+app.listen(port);
+console.log('Listening on port ' + port);
