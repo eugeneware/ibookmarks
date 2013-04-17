@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica,Arial,Sans-Serif;
+}
+
+#bookmarks {
+  width: 720px;
+  height: 400px;
+  display: block;
+};
+
+#cleanup {
+  display: block;
+};
