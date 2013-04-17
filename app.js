@@ -5,6 +5,11 @@ var director = require('director');
 var filed = require('filed');
 var router = new director.http.Router();
 
+var filed = require('filed');
+var iBooksStream = require('./lib/ibooksstream');
+var concat = require('concat-stream');
+var marked = require('marked');
+
 router.get('/', function () {
   filed(__dirname + '/views/index.html').pipe(this.res);
 });
@@ -24,8 +29,14 @@ io.set('log level', 0);
 
 io.sockets.on('connection', function (socket) {
   socket.on('cleanup', function (data) {
-    console.log(data);
-    socket.emit('results', '<b>hello</b>');
+    var ibooks = iBooksStream({ markdown: true, chapterLevel: 3 });
+
+    ibooks.pipe(concat(function(err, data) {
+      socket.emit('results', marked(data || ''));
+    }));
+
+    ibooks.write(data);
+    ibooks.end();
   });
 });
 
