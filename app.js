@@ -40,7 +40,7 @@ io.sockets.on('connection', function (socket) {
   });
 });
 
-var port = process.argv[1];
+var port = parseInt(process.argv[2]);
 
 app.listen(port);
 console.log('Listening on port ' + port);
