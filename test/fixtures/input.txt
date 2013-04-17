@@ -1,0 +1,1994 @@
+NOTES FROM
+
+Ultimate Guide to Facebook Advertising: How to Access 600 Million Customers in 10 Minutes (Ultimate Series)
+
+Marshall, Perry
+
+10 April 2013
+Chapter One - Facebook’s Move to Rule the World
+Facebook was founded in Mark Zuckerberg’s Harvard University dorm room by Mark, his roommates, and friends. It was not built for you, the advertiser.
+
+10 April 2013
+YOUR MISSION, SHOULD YOU CHOOSE TO ACCEPT IT
+Your mission is to buy a click for $1 and to reliably and repeatedly turn it into $.01 worth of pure profit.” This is how professional gamblers think. If they can find a game where betting a dollar nets them a penny, they are in heaven. They sit there for hours and hours playing round after round trying to bet as much as possible to earn that 1% net. They even have a name for it; they call it “grinding.” The best part about grinding when you’re a digital marketer is that you do not have to actually sit at a table in a smoke-filled room. Digital grinding happens in that area of the web now called the “cloud,” and clouds are much nicer than smoke-filled rooms. Also, you do not have to live in Vegas. In the online world, the game comes to you. Think about this for a moment: a 1% net return on an investment that may be achieved within a matter of minutes from when the investment was made. What is the return on a dollar on an annual basis that can return 1% every 3 minutes? The figure is so large it makes even Go[…]
+
+10 April 2013
+DOES YOUR BUSINESS HARMONIZE WITH FACEBOOK?
+Facebook is for you if you sell unique or personalized products.
+
+10 April 2013
+DOES YOUR BUSINESS HARMONIZE WITH FACEBOOK?
+Facebook is for you if you sell to consumers not businesses.
+
+10 April 2013
+DOES YOUR BUSINESS HARMONIZE WITH FACEBOOK?
+If you provide personal improvement products, especially anything that’s new, trendy, hip, or cool, Facebook is also a great fit. If your product involves some form of training, accent the social advantages more than the academic aspects, such as how learning a new language can make travel more fun. On the flip side, if your product is technical, academic, complex, or requires deep thought, it may be hard to sell on Facebook.
+
+10 April 2013
+DOES YOUR BUSINESS HARMONIZE WITH FACEBOOK?
+If you appeal to a variety of such backgrounds, then you can design specific marketing campaigns to cater to each of those preferences. You may have different pockets of people within your customer database, and the better you understand those pockets, the more you can target your ads, and the more you can sell.
+
+10 April 2013
+PERRY MARSHALL’S FACEBOOK QUIZ
+If the shared beliefs aren’t immediately obvious, don’t give up. You might want to survey your customers and see if you can identify any political, social, or religious preferences. Better yet, get your customers to “like” your Facebook page and then review their profiles for “likes and interests” and the summary reports that Facebook provides. You may find shared beliefs and convictions are held by many of your customers only after many sales, when you know your customers better.
+
+10 April 2013
+SHOULD YOU ADVERTISE ON FACEBOOK?
+And much of that advice is woefully ineffective. If you want to build a real business that makes money, invest $1 in advertising, acquire a customer, and get $2 back.
+
+10 April 2013
+HOW WELL IS MY AD WORKING?
+Ads display on Facebook multiple times to the same user. The number of individual people who have seen your ad during a specific period of time is reported by Facebook as reach.
+
+10 April 2013
+HOW WELL IS MY AD WORKING?
+The number of individual people who have seen your ad during a specific period of time is reported by Facebook as reach. The average number of times each indivual user has seen your ad is reported as frequency.
+
+10 April 2013
+STEP 2: TARGET THE AD
+This is the easiest field to mess up, and we will talk about it in great length in this book. These are specific things that prospects have identified as “likes and interests” in their profiles. IT IS NOT what they are searching for.
+
+10 April 2013
+STEP 2: TARGET THE AD
+Connections allows you to specifically include or exclude people connected to pages, events, groups, or apps for which you are an administrator.
+
+10 April 2013
+CAMPAIGNS, PRICING, AND SCHEDULING
+A simple strategy to dramatically reduce the cost of ads in Facebook is to break your target audience into different highly-targeted groups.
+
+10 April 2013
+CAMPAIGNS, PRICING, AND SCHEDULING
+A simple strategy to dramatically reduce the cost of ads in Facebook is to break your target audience into different highly-targeted groups. Be hyper-specific in your ad targeting and then write ads to appeal to those exact target groups. If you wanted to advertise to people who liked “Bing Crosby,” “Frank Sinatra,” and “Dean Martin,” you could list all of those names in the interests field of just one ad and that one ad would display to fans of Bing Crosby, Frank Sinatra, and Dean Martin.
+
+10 April 2013
+CAMPAIGNS, PRICING, AND SCHEDULING
+This type of highly targeted ad is the secret of Facebook advertising success.
+
+10 April 2013
+CAMPAIGNS, PRICING, AND SCHEDULING
+• Time Zone: Budgets can be run on a daily basis, setting your time actually impacts how Facebook will optimize itself for daily ad spends. In the United States, if you are advertising on the west coast, you may wish to set your time zone as Pacific Time. If you select Eastern Time, your campaigns will be optimized for daily spending ending at midnight Eastern Time, only 9 P.M. Pacific Time.
+
+10 April 2013
+PLACING YOUR ORDER
+In later chapters, we will show you how to think about CPC and CPM bidding. To get your trial ad started, bid the ad CPC, and set your max bid for two cents higher than the lowest recommended bid. This way, if your ad sucks and nobody clicks, you will not pay anything.
+
+10 April 2013
+DURATION AND BUDGET BATTENS
+The implication is it will try to distribute the budget evenly across the days, but there is no guarantee that this will be the case, so be careful about setting a large lifetime budget. Better, at least initially, to manage a daily budget with short durations.
+
+10 April 2013
+DURATION AND BUDGET BATTENS
+If you choose “lifetime budget,” then Facebook claims it will distribute your ad “throughout the duration of the campaign.” The implication is it will try to distribute the budget evenly across the days, but there is no guarantee that this will be the case, so be careful about setting a large lifetime budget.
+
+10 April 2013
+DURATION AND BUDGET BATTENS
+Set your campaign schedule (the duration is the time between the start date and the end date) to run for a reasonably short period of time. We suggest using daily budgets and setting duration to two or three days at most. You can extend the duration any time you like, and it does not require your ad to be reviewed again by Facebook, so your ad starts running again instantly if you set a new end date after it timed out.
+
+10 April 2013
+DURATION AND BUDGET BATTENS
+You can extend the duration any time you like, and it does not require your ad to be reviewed again by Facebook, so your ad starts running again instantly if you set a new end date after it timed out. Check your campaign twice a day. If things are going well and your duration is almost over, extend your duration another day or two.
+
+10 April 2013
+DURATION AND BUDGET BATTENS
+But still think of it as what you are willing to lose. You should look at increasing budget and duration in terms of risk. In one case, we knew our ads and landing pages fundamentally worked and our short-term goal was not financial; it was simply to drive a few beta testers to a new software product each day.
+
+10 April 2013
+DURATION AND BUDGET BATTENS
+In one case, we knew our ads and landing pages fundamentally worked and our short-term goal was not financial; it was simply to drive a few beta testers to a new software product each day. We set the daily spend at $50 and the duration at 30 days. We were willing to lose $1,500 to try to get beta testers. In other cases, where the goal of an ad is clearly to deliver more profit and we know the ad is working, we crank the daily spend up to maximum and collect as much cash as possible as fast as possible, because we never know when the game will change and the gold vein will end. If your ad is making money and you can keep up with the orders, spend as much as Facebook will let you each day and set the duration to be one day at a time. If the daily spend is high, we manage our risk on a day-by-day basis.
+
+10 April 2013
+YOUR AD CAMPAIGN IS NOT A ROTISSERIE CHICKEN
+You risk sinking your entire business. Until you know that every dollar you spend in Facebook advertising is truly delivering at least a penny in net profits, you must set a low budget and a short duration.
+
+10 April 2013
+YOUR AD CAMPAIGN IS NOT A ROTISSERIE CHICKEN
+Do not “set it and forget it.” In fact, when you are just starting a new campaign, we suggest you look in on it within 60 minutes of it first activating.
+
+10 April 2013
+YOUR AD CAMPAIGN IS NOT A ROTISSERIE CHICKEN
+In fact, when you are just starting a new campaign, we suggest you look in on it within 60 minutes of it first activating. The first few hours, as the ads get impressions, you actually have an opportunity to immediately reduce your bids and look for unintended consequences. Reducing bids is treated nicely by Facebook; that change does not require you to wait for a reviewer to approve the change.
+
+10 April 2013
+RUNNING IN THE DARK
+Review every ad at least every one to two hours the first day. Once the campaigns are running, they should be reviewed at least at the beginning and the end of every day.
+
+10 April 2013
+RUNNING IN THE DARK
+But you shouldn’t expect to get dramatic results from your first ad. Discovering how real customers will actually respond to a new ad is always walking in the dark. It is dark!   So we walk.     Tiny and measured steps. After each step, we measure and validate our results. Our goal is not to write the best ad on our first attempt. Our goal is to refine an approach to advertising that will improve, using natural selection, until it produces winning ads. The key to creating great ads is to learn to run experiments with specific goals in mind.
+
+10 April 2013
+RUNNING IN THE DARK
+The key to creating great ads is to learn to run experiments with specific goals in mind. Then, gather real data to prove whether the experiment is a success. Relentlessly test your ad ideas.
+
+10 April 2013
+RUNNING IN THE DARK
+Relentlessly test your ad ideas. Let data (specifically click-through-rate and conversion rate) tell you which ideas are best.
+
+10 April 2013
+WHY AIM TINY?
+Develop an approach to advertising that says experiments are the norm. Everything is always an experiment. Build the experiment, collect the data, and then analyze the results.
+
+10 April 2013
+WHY AIM TINY?
+Build the experiment, collect the data, and then analyze the results. If the experiment worked, do more of it. If it failed, learn from it and move on. Sometimes you win, and sometimes you lose.
+
+10 April 2013
+WHY AIM TINY?
+Sometimes you win, and sometimes you lose. Keep the winners; throw away the losers, and then start the process over again. Experiment, gather data, analyze, repeat.
+
+10 April 2013
+WHY AIM TINY?
+Do you want to know the secret of successful digital advertisers? They aim tiny and miss small. And, as a result, they learn a lot very quickly.
+
+10 April 2013
+WHY AIM TINY?
+Over time, you get smarter and smarter by testing lots of tiny changes and watching the CTR.
+
+10 April 2013
+WHY AIM TINY?
+Over time, you get smarter and smarter by testing lots of tiny changes and watching the CTR. In Facebook, you will also need to make tiny changes just to stop the ad from fatiguing. Discovering how real customers actually respond to a new ad or making a tiny change to an existing ad is throwing darts in a blizzard.
+
+10 April 2013
+WHY AIM TINY?
+You walk in tiny and measured steps because you can’t see clearly. The more data shines light on the project, the faster you can go. Eventually, when you really think your ad and your sales funnel is working, you turn the spigot on full blast and run the ad continuously for as long as possible.
+
+10 April 2013
+WHY AIM TINY?
+Eventually, when you really think your ad and your sales funnel is working, you turn the spigot on full blast and run the ad continuously for as long as possible.
+
+10 April 2013
+WHY AIM TINY?
+Eventually, when you really think your ad and your sales funnel is working, you turn the spigot on full blast and run the ad continuously for as long as possible. The data will tell you when you can do this, and you do not need to guess. What is most important is not any specific ad you write or response you get.
+
+10 April 2013
+WHY AIM TINY?
+It may be necessary to test 20 different variations or more on a single Facebook ad to get optimal performance from the ad.
+
+10 April 2013
+WHY AIM TINY?
+It may be necessary to test 20 different variations or more on a single Facebook ad to get optimal performance from the ad. Do it quickly. Don’t spend a year to figure out how to improve your conversion rate. If you spend a year finding an optimization that could have been found in a month, then you have lost eleven months of financial gain. A very costly 11 months! Throwing darts in a blizzard is a great way to get injured.
+
+10 April 2013
+Chapter Six - Selling on the Front Porch
+Facebook is where people connect with friends, family, and acquaintances. Facebook is the new town square. People do not go to the town square to search for the answers to a problem or to buy life insurance. They go to meet people, to see and to be seen, to interact. Facebook is not about what people are doing right now, it is about who people are: what they like, what they believe in, and with whom they like to associate.
+
+10 April 2013
+Chapter Six - Selling on the Front Porch
+Facebook is not about what people are doing right now, it is about who people are: what they like, what they believe in, and with whom they like to associate. Facebook is where people share announcements, opinions, and insights not for any particular objective, but just to share. To connect. To be alive.
+
+10 April 2013
+THIS IS NOT YOUR FATHER’S ADWORDS
+What is important to recognize is that the front porch is not the market; it is not the boardroom; it is not the mall. You do not conduct business on the front porch in the same way you do in these other locations. Learn this lesson and you crack the code to effective Facebook advertising.
+
+10 April 2013
+THIS IS NOT YOUR FATHER’S ADWORDS
+Facebook looks almost the same, but looks are deceiving in this case. Facebook is not AdWords. Try a real-world example.
+
+10 April 2013
+THIS IS NOT YOUR FATHER’S ADWORDS
+The ads you see at the right-hand side of the page in Facebook are not ads based on what you are doing right now, which is searching the word “guitar.” Rather they are ads focused on who you are as a person: your age, your sex, your marital status, and the pages, TV shows, and other things you’re into. In Google you get to sell to the specific need that the user is digitally shouting at you.
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+So is there an effective way to sell on the front porch?
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+You bet there is. It all begins with adding value, and with a snickerdoodle, a glass of lemonade, and a game of checkers.
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+Selling on the front porch is about engaging people where they are, based on their personal likes and interests.
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+If you were selling pottery on the front porch, how would you approach it? For starters, if you want to sell pottery on the front porch, you begin by having incredibly interesting pottery in plain view. You choose pieces that stop people in their tracks and cause them to come up onto the porch and see what they are. You engage people on your front porch. You make them smarter about pottery. You answer their questions about pottery, and you converse about art, artists, clay, and kilns. You may even have a pottery wheel on the front porch where you demonstrate how a pot is made.
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+Selling on the front porch is about adding value and engaging the customers so that they want to spend time on the front porch. If they spend enough time, see the products, learn about them, and do so in a way that engages and entertains . . . guess what?
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+They stop by the front porch the next time they are in town. The more people stop at the front porch, the more people hang around, the more people learn about pottery, and the more they want to own a nice piece of pottery themselves. Done correctly, the entire process doesn’t even feel like selling.
+
+10 April 2013
+ADD VALUE BEFORE YOU RECEIVE A DIME
+Done correctly, the entire process doesn’t even feel like selling. Why? Because it isn’t selling; it is being social.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+Do you have 1,000 friends on your Facebook page but almost no interaction from them? It is probably because you are not playing with them. Playing leads to interaction, interaction leads to information, information leads to interest, and interest leads to sales. This is the way of the front porch. One of the simplest forms of play is asking a trivia question.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+One of the simplest forms of play is asking a trivia question. It works on the front porch, and it works in Facebook.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+I encourage my students not to focus initially on their products or service offerings but to first provide free information around their products and services. If the potential customers request more information around the product or service and we collect their contact information, then we have a lot more space to work with them until they are ready for a sale.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+The goal, once you pay for a click, is to begin to build a relationship with a customer. One where they like you, appreciate your expertise, and actively desire to purchase from you.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+This strategy works precisely because it is not just a tactic, but is a way to demonstrate that you are actually there to help.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+This strategy works precisely because it is not just a tactic, but is a way to demonstrate that you are actually there to help. You are not out to make a quick buck but to build a relationship. You are selling on the front porch. The conversation built around helping your prospect find ways to save on ink could be followed with a series of messages in an email auto-responder that describe other ways to get more value in the printing process, saving paper, saving electricity, etc.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+The conversation built around helping your prospect find ways to save on ink could be followed with a series of messages in an email auto-responder that describe other ways to get more value in the printing process, saving paper, saving electricity, etc. Adding value for your customers, making them want to visit your Facebook page or open your email, is key. Eventually, when they want ink, guess who they will think of first.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+Would you like your prospects to call you too?   Then master selling on the front porch. Harness the fundamental principles that have been working for millennia, because they have never been more true than they are in Facebook. The fundamentals don’t change. The tools and tactics change; the strategy remains.
+
+10 April 2013
+BEING FRIENDLY, TRULY FRIENDLY
+Engage your customers with value-added experience so they enjoy hanging out on your front porch. Get as many leads as possible on your front porch, playing checkers, eating snickerdoodles, and occasionally even learning something interesting or important. When the time comes to purchase a product or service, who do you think they will be most inclined to buy from?
+
+10 April 2013
+Chapter Seven - Targeting
+“People don’t notice ads, they notice what interests them and sometimes it’s an ad.”   —HOWARD GOSSAGE
+
+10 April 2013
+Chapter Seven - Targeting
+It is also reasonable to believe that if we advertise to Group 7 we will get a much higher click-through rate (CTR) at a much lower cost per click than if we advertise to Group 1. We save money by advertising to fewer people, and we save money by advertising to the right people. It is obvious to most who might be running an Austin-based pottery shop that it is better to advertise to every married female in Austin, Texas, between the ages of 25 and 50, who has children, and is planning a birthday party—Group 7—than to every person in the world.
+
+10 April 2013
+ESTIMATED REACH
+There are names for various types of targeting: • geographic (where someone lives) • demographic (who someone is) • psychographic (what someone thinks: their interests, activities, and opinions) We will explore all three of these areas to describe how to target your ads and reduce the cost of acquiring customers.
+
+10 April 2013
+ESTIMATED REACH
+In addition, Facebook offers a unique fourth targeting area—sociographic. Sociographic targeting finds customers based on the social graph, how people are connected. Sociographic targeting aims at people based on who they know.
+
+10 April 2013
+ESTIMATED REACH
+In addition, the estimated reach display can help you do market research. If you are thinking of building a store in Ann Arbor, Michigan, that will appeal to married women between the ages of 30 to 40, Facebook can tell you in a few seconds through the estimated reach tool how many of those customers have self-identified in Facebook (see Figure 7.3).   FIGURE 7.3–Married Women in Ann Arbor, Michigan, between the Ages of 30 and 40
+
+10 April 2013
+ESTIMATED REACH
+You can reach these almost 13,000 women on Facebook. Use them for market research now. Ask them if they would shop at your store. They are readily reachable to you and welcome a front porch conversation. Talk to them about what items they would like to see available. Offer discounts and coupons for great suggestions. By the time your store opens, you should already have many people in your target market anxiously awaiting your opening-day extravaganza.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+These choices are about where your target users are when they actually access Facebook. The users may be from the United States, but if they are traveling and accessing Facebook from Canada, they will be shown ads for people who have been targeted in Canada. Your choices for state/province are limited by your country selections.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+You can always reach all cities, states, and provinces you would like by adding more countries and adding more states and provinces. It is my personal rule that advertising to different countries always occurs in separate ads. I never target two different countries in the same ad. If you select that you are targeting by city, then you have the option to extend your ad to people living within some distance of the city, so good target users are not lost because they are a few miles outside of city limits.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+Geographic targeting is obviously valuable for most local brick-and-mortar businesses.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+Surprisingly to many people new to geographic targeting, it is still useful to use geographic targeting even if you sell nationally or internationally.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+People respond better to an ad where the image features a local landmark. This is called creating a localized ad. Say you are in the business of making the world’s best pecan pie, and most of your business is by mail order.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+You package and ship pecan pie overnight anywhere in the United States and Canada. Which ad body text do you think converts better in Texas? Texans love Momma Bakers Pecan Pie or Everybody loves Momma Bakers Pecan Pie
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+In Texas, I’ll bet on “Texans love Momma Bakers Pecan Pie” every time. Even if you are selling everywhere in the United States, you will benefit from specific geographic targeting that localizes your ads, increases CTR, and improves profits.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+Localizing your ad copy should improve response rates dramatically.
+
+10 April 2013
+GEOGRAPHIC TARGETING—WHERE SOMEONE LIVES
+There is another reason you may do more focused geographical targeting. Even though you want to sell your product to everybody everywhere, you may not be selling everywhere equally. I strongly encourage you to look at your sales data to determine if there are distinct patterns to where your products sell best. Sell where you sell and stop wasting money advertising in places where you do not sell. At first you may not know where you will sell, so you may set your ad to target everywhere in the United States as seen in Figure 7.6.
+
+10 April 2013
+DEMOGRAPHIC TARGETING—WHO SOMEONE IS
+The money saved by advertising to 20 million people instead of 150 million people makes the entire business dramatically more profitable. Geographic targeting is that powerful.
+
+10 April 2013
+DEMOGRAPHIC TARGETING—WHO SOMEONE IS
+Identify regions with a disproportionally high number of customers and advertise more in those regions.
+
+10 April 2013
+DEMOGRAPHIC TARGETING—WHO SOMEONE IS
+It sounds tricky and like an awful lot of work to figure out where your online customers are geographically. Fortunately, Facebook reports make it easy to determine your hot and cold spots, and you do well to take advantage of that knowledge—use geographical targeting.
+
+10 April 2013
+TARGETING AGE RANGES
+If you are not sure what age range will purchase your products, start with a broad range and see who clicks on your ads.
+
+10 April 2013
+TARGETING AGE RANGES
+If you are not sure what age range will purchase your products, start with a broad range and see who clicks on your ads. Facebook reports tell you the age range of who is clicking on your ads most frequently. Once you know this, narrow your age selection or break the one ad into multiple ads targeting different age groups. Only go after the lower performing age groups when the higher performing groups have been exhausted.
+
+10 April 2013
+TARGETING AGE RANGES
+Only go after the lower performing age groups when the higher performing groups have been exhausted. Depending on the size of your target market, you may be able to determine the most responsive age groups in a few hours to a few days. Very little in targeting by age demographics is exact.
+
+10 April 2013
+TARGETING AGE RANGES
+Facebook reports tell you the ages of users who click on your ads. You do not have to guess. If most of your customers are females between the ages of 25 and 45, then target that group first. It provides the least expensive sales.
+
+10 April 2013
+TARGETING AGE RANGES
+Targeting cohorts is about selecting age groups that may respond to very different appeals in the ad images and copy. In part, this is because people’s common experiences shape their emotional responses to advertising. If you sell to a broad range, you may choose to target cohorts in order to customize your ad copy and your sales channel to better appeal to the group’s unique psychographics.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+In marketing, “psychographics” is used to describe the interests, activities, and opinions of a target group. Psychographics describes the type of thinking going on in someone’s head.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+Needless to say, understanding the psychographics of a target audience is a tremendous advantage to you. Psychographic targeting in Facebook is provided through an interface called “interests.” When people “like” something on Facebook, it becomes a part of their psychographic profile.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+When people “like” something on Facebook, it becomes a part of their psychographic profile.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+A word of caution about psychographic targeting: to capture legitimate prospects with an interest in cooking will likely require using dozens of different psychographic target words. Psychographic target words are not keywords and, surprisingly, they are not direct matches for specific pages. Psychographic targeting deserves extra chapters because it’s vastly different from keyword targeting used in search-engine ads. You do not understand how this psychographic targeting actually works in Facebook. Perhaps nobody does. Not even Facebook. I believe Facebook could double its revenue simply by making better psychographic-targeting algorithms.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+Because your Facebook ads are totally customized to your geographic, psychographic, demographic, and sociographic profiles, not to what you are searching on “right now.” Ads in Facebook are totally different for everybody, based on who they are, not what they are searching for or doing at this specific instant.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+Ads in Facebook are totally different for everybody, based on who they are, not what they are searching for or doing at this specific instant. If the user does not have agile guitars in their “likes and interests,” then they will not be served ads on guitars, even if all they ever did in Facebook was search on the term.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+Facebook allows you to target broad categories instead of precise interests. The broad categories are identified and created by Facebook and are limited.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+However, expect more and more categories to be added over time. These broad category targets accumulate a large number of precise interests into one convenient bundle.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+You cannot combine broad categories and precise interests. However, you can select multiple broad categories at one time. Our suggestion: Never select more than one broad category in the same ad.
+
+10 April 2013
+PSYCHOGRAPHIC PROFILING
+Next, I do an alphabet search. What is an alphabet search? It is a way to look for other phrases that contain your target word. Say I was targeting people with an interest in “Cats.” I start typing “Cats A”     Facebook immediately suggests to me “Cats Are Better Than Dogs” and “Cats Are Purrrfect.” I select both of them and add more highly targeted people to my campaign. Continue working your way through the alphabet, searching for likes and interests that use cats as a root: Cats B—eight more suggestions     Cats C—seven more suggestions Facebook always selects the top of the list, so to add its top suggestion quickly just press the enter key.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+Sociographic targeting is about a prospect’s relationships. The prospect has a relationship with you because they “liked” your page. The prosect has relationships with other people they “friended.” Sociographic targeting is the 21st century’s most interesting advance in advertising.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+“Connections on Facebook” allows you to target prospects based on which of your pages, groups, apps, or events they are, or are not, connected to. Perhaps never before in the history of direct marketing has such an advancement and innovation been so casually introduced nor so universally ignored—until now. This laser-guided missile of direct marketing looks plain, innocent, and innocuous.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+This laser-guided missile of direct marketing looks plain, innocent, and innocuous. Instead, it is a total game changer.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+Facebook created a whole new category of advertising—sociographic advertising: advertisements based on visible, social graph connections. Every business benefits from this new type of advertising.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+For small businesses, this type of advertising is a game changer. A small shop can now reach all of its customers with a highly affordable, custom message. Using CPM (cost per impression) bidding, you can potentially remind ALL of your existing customers of your brand and your presence for less than the cost of a few postage stamps!
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+Using CPM (cost per impression) bidding, you can potentially remind ALL of your existing customers of your brand and your presence for less than the cost of a few postage stamps!   Any business who gets its regular customers to “like” a page can now get a custom advertisement in front of those customers for literally fractions of a penny, simply by running an ad that targets users who are connected to its Facebook page.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+This is a perfect example of that. Just because you can select a psychographic word that matches letter-for-letter the name of someone’s Facebook page, does not mean you have directly targeted their fans. Psychographics do not target user pages directly.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+It is confusing. The important thing to recognize is that although we look for pages to find good potential psychographic targets, unless we are the administrators of a page, event, or app, we cannot directly target fans of that page, event, or apps. Do the math yourself watching estimated reach.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+As it currently stands, only the administrators of a page can directly target the fans of their page with direct advertising. So build your page of your fans.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+If you administrate a page, group, event, or app, then only you and your fellow administrators can directly exclude those fans from an ad. If you are advertising to 500,000 people a message that tries to get them to be fans of your Facebook page, you may choose to exclude those people who are already fans of your page, event, or app. This saves you money.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+To exclude existing fans, simply select your page name in the field called “target users who are not already connected to.” It costs money to display your ads.
+
+10 April 2013
+SOCIOGRAPHIC TARGETING
+If you have multiple pages and multiple offers, you can cleverly combine both of these fields to selectively target fans of one of your pages, events, or apps and try to make them fans of a second page, event, or app.
+
+10 April 2013
+EDUCATION AND WORK TARGETING
+If you choose as your destination a Facebook page, Facebook provides you with another powerful option: The option to specifically show ads to the “friends of the fans” of your page. When your target “friend of the fans” of your page, prospects who see the ad also see the names of their friends who have liked the ad.
+
+10 April 2013
+EDUCATION AND WORK TARGETING
+When your target “friend of the fans” of your page, prospects who see the ad also see the names of their friends who have liked the ad. You get immediate street cred for your ad and for your page. Local businesses who target “friends of fans” in their local area, now have an amazing tool to expand their brand presence.
+
+10 April 2013
+ADVERTISING AND TARGETING REPORTS
+The fundamentals, however, remain the same. You save money and have more effective ads by getting them in front of the right people. There are an unlimited number of new targeting ideas that could be supported by the data Facebook collects.
+
+10 April 2013
+ADVERTISING AND TARGETING REPORTS
+Select the “scheduled reports” menu item and schedule a copy of each report Facebook currently offers.
+
+10 April 2013
+ADVERTISING AND TARGETING REPORTS
+• What ads are getting clicks? See the “advertising performance report.” • Who is clicking in the ads? See the “responder demographics report.” • How long does it take to convert? See the “conversion by impression time reports.”
+
+10 April 2013
+Chapter Eight - That Quirky Little Image Is Everything
+Image is everything, at least for your Facebook ads. The ads are formatted by Facebook to project an image of the site as a friendly and social place.
+
+10 April 2013
+Chapter Eight - That Quirky Little Image Is Everything
+There are really only a few tools to help your ad stand out, the biggest being your ad image. Perhaps 80% of the click-effectiveness of your ad will be determined by the image you choose and the headline you provide for that image, with 70% coming from the image alone. Images are so important to your ad that you should never fully convince yourself you really know what you are doing when you choose them.
+
+10 April 2013
+CAPTURE ATTENTION WITH YOUR IMAGE
+Images are so important to your ad that you should never fully convince yourself you really know what you are doing when you choose them. Instead, select and test lots of images and never stop trying new ones.
+
+10 April 2013
+CAPTURE ATTENTION WITH YOUR IMAGE
+Sexual images interrupt because they trigger our subconscious. To recognize images that have the potential to make a bigger impact, you should get into the habit of observing your own emotional reactions to images.
+
+10 April 2013
+CAPTURE ATTENTION WITH YOUR IMAGE
+Look for images that provoke your “lizard brain.”
+
+10 April 2013
+CAPTURE ATTENTION WITH YOUR IMAGE
+Here is the weird thing: if someone hunts up 10 images for you to consider for an ad, it is highly likely the image you do not like is the image that will perform best. Why? Because that image created in you an emotional response. It captured you emotionally enough to say, “I do not like that, Sam I am!” That Seuss character could spot green eggs and ham a mile away.
+
+10 April 2013
+USE PICTURES OF PEOPLE
+Use whatever tools you can to interrupt your audience, to get them to look.
+
+10 April 2013
+USE PICTURES OF PEOPLE
+Facebook is all about people, so look for images that include pictures of people. Pictures of people are the backbone and lifeblood of Facebook, and they make great images to include in your ad campaigns. The following observations continually test true:
+
+10 April 2013
+USE PICTURES OF PEOPLE
+• Men look at women. • Women look at women. • Women also look at children.
+
+10 April 2013
+USE PICTURES OF PEOPLE
+Test pictures of happily married couples doing adventurous activities together.
+
+10 April 2013
+USE PICTURES OF PEOPLE
+Capture both the happy couple and the sense of adventure. Or, pictures of what? We hope you said “angry couples,” which will likely interrupt even better than pictures of happy couples.
+
+10 April 2013
+USE PICTURES OF PEOPLE
+Test pictures of kids. Cute kids, dirty kids, happy kids, and what else? We hope you said “crying or screaming kids.” Pictures of crying and screaming kids evoke a strong emotional reaction that interrupts. The crying child in Figure 8.2 was a very successful image for me that I still use today. If you are looking at lots of pictures of kids, the crying kids are just like green eggs and ham—you spot them a mile away.
+
+10 April 2013
+USE PICTURES OF PEOPLE
+If you are selling to moms looking for a new dentist, a picture of a busty woman with a beautiful smile is almost guaranteed to work. Remember, women like to look at beautiful women, especially if they think the product may help them look beautiful, too.
+
+10 April 2013
+WHERE ARE THEY LOOKING?
+All things being equal, images of people are more effective at interrupting when they are looking directly at you, as is the image in Figure 8.4.
+
+10 April 2013
+WHERE ARE THEY LOOKING?
+If you walk into a crowded room and look around at all the people, who do you think you are more likely to notice? • A person looking at her friend. • A person looking directly at you. Of course, you’ll notice the person looking directly at you.
+
+10 April 2013
+WHERE ARE THEY LOOKING?
+Figure 8.5 illustrates another automatic response we have, which is to look where other people are looking.
+
+10 April 2013
+PICTURES OF THINGS
+But don’t guess, test and see for yourself. Don’t be afraid to harness stereotypes to your advantage. Many times, “stereotype” is just a not-so-sexy term for psychographics. Selling tires locally?
+
+10 April 2013
+PICTURES OF THINGS
+Tires Are Not a Fashion Statement The right tires will save your life. Learn 5 essential questions to ask when buying tires. Free video.
+
+10 April 2013
+PICTURES OF THINGS
+Just looking at the cute kitten in Figure 8.7 makes me want to click on the ad. In a situation like this one, the landing page should provide additional, immediate reward for the kitten lovers. How? More pictures of cute kittens!   FIGURE 8.7–People Who Love Kittens Are Triggered by Pictures of Kittens
+
+10 April 2013
+PICTURES WITH WORDS
+The main thing to test: A picture of what you are selling! This seems perhaps a bit too simple, but the reason it works is simple.
+
+10 April 2013
+PICTURES OF WORDS
+Facebook lets you include text in the image, and it adds a new dimension to your ad. If you include a word or two in your picture, it is essential to include text that is readable in the very tiny image size available.
+
+10 April 2013
+PICTURES OF WORDS
+Done properly, text in the image box will be much more visually powerful than the headline—meaning it will be read first. These images are really, really small, so pay attention to the text in the image and to the contrast between text color and background color.
+
+10 April 2013
+PICTURES OF WORDS
+These images are really, really small, so pay attention to the text in the image and to the contrast between text color and background color. Contrast needs to be high, like that in Figure 8.8, for the text to be readable.   FIGURE 8.8–The Words Embedded in This Image Will Be More Powerful than the Headline
+
+10 April 2013
+PICTURES OF WORDS
+A powerful technique you should test is simply making the entire image a word that is a trigger word for your target audience.
+
+10 April 2013
+STRANGE OR SILLY IMAGES
+How many times have you driven by a highway billboard that interested you—but it was so crammed with text you couldn’t read it? Facebook images are micro-billboards.
+
+10 April 2013
+STRANGE OR SILLY IMAGES
+The goal is attention. So don’t be afraid to try strange or silly images like the one in Figure 8.10. Be the shiny new object—the most interesting thing on the page. Ads that fall into this category tend to fatigue more slowly.
+
+10 April 2013
+ONCE YOU FIND SOME GOOD IMAGES, FIND SOME MORE
+No matter how good your images are, your ads will fatigue with time.
+
+10 April 2013
+ONCE YOU FIND SOME GOOD IMAGES, FIND SOME MORE
+Even before you first turn on a new ad, you should be planning for how to keep your ad going with new images after ad fatigue sets in.
+
+10 April 2013
+ONCE YOU FIND SOME GOOD IMAGES, FIND SOME MORE
+Even before you first turn on a new ad, you should be planning for how to keep your ad going with new images after ad fatigue sets in. The first time you create an ad, go looking for at least three different images that can support the ad. Then plan from the very beginning to rotate multiple images through each and every ad—without necessarily even changing the text. Some of your customers will be interrupted by people crying, some by people covered in finger paint, and some by people smiling; you need to plan to use all three.
+
+10 April 2013
+IMAGE EXTREME MAKEOVERS
+Seriously, in search advertising you are frequently sweating every last hyphen to make an ad work. In Facebook, mediocre ad copy with a funny image may get a ton of reasonably priced clicks—it is great! It is easy to change the image and get dramatically better CTR in Facebook.
+
+10 April 2013
+IMAGE EXTREME MAKEOVERS
+It is easy to change the image and get dramatically better CTR in Facebook. It is harder to see a dramatic improvement just by changing the text. This is great news for beginners, because it is a lot easier to find compelling images than to write compelling copy. Simply learn to take careful note of images that catch your attention and use those images.
+
+10 April 2013
+QUICK-DRAW ADS
+You can add a border to an older image or change an image’s background color as a way to refresh the ad, enhance the image, and fight ad fatigue.
+
+10 April 2013
+HELP, MY BEST-PERFORMING IMAGE JUST GOT REJECTED
+But your life as a Facebook ad-slinger is totally dependent on your ability to produce and test new ads quickly. How quickly can you go to your favorite image site, find a new image, duplicate a working existing ad, upload a new image, and launch the new ad?
+
+10 April 2013
+HELP, MY BEST-PERFORMING IMAGE JUST GOT REJECTED
+The challenge is: Can you get in the habit of creating new and exciting ads without making it a long and laborious process? Your mission, should you choose to accept it, is to survive in the world of advertising by developing the skills to move fast and move true.
+
+10 April 2013
+HELP, MY BEST-PERFORMING IMAGE JUST GOT REJECTED
+Facebook requires that your images be relevant to your product or service.
+
+10 April 2013
+FINDING IMAGES
+You can find free images online in places like Wikimedia Commons (http://commons.wikimedia.org).
+
+10 April 2013
+FINDING IMAGES
+• Fotolia (http://us.fotolia.com/) offers high-quality, commercial images for low prices, often for $1 to $4.
+
+10 April 2013
+FINDING IMAGES
+• iStockPhoto (http://www.istockphoto.com/) carries excellent photos, although they can be a bit pricey. In all cases, when using images you did not create, remember to confirm that the copyright holder will allow for the commercial use of the image on a site like Facebook.
+
+10 April 2013
+YOUR NEW $10,000 PER HOUR CAREER
+Give me a so-so product with the world’s best copywriter, and I will sell millions of dollars worth of the product. Give me a great product and a badcopywriter, and the company may go bankrupt. This is not fair, but it is true.
+
+10 April 2013
+YOUR NEW $10,000 PER HOUR CAREER
+In advertising, copywriting is king. And if you can write an ad that gets the world to stop and take notice, you are worth your weight in gold.
+
+10 April 2013
+YOUR NEW $10,000 PER HOUR CAREER
+Because copywriting is so essential, even if you choose to contract this work out, you still need to know how to objectively evaluate the results, at least. It is OK, even recommended, that you write bad ads at first. The key is, how fast can you recognize the ad is bad and replace it with one that works? I actually recommend that you write bad ads because if some of your ads are not bad, it means you are not trying enough different approaches. Another reason you should at least try to write your own copy is because nobody else will ever be as insightful, passionate, or interested in all the fine nuances of the business as you, the entrepreneur.
+
+10 April 2013
+CAPTAIN HOOK
+Your Facebook ad is like the resume. It is not trying to close the deal, it is just trying to get the click. What can you say in your ad to get the click?
+
+10 April 2013
+CAPTAIN HOOK
+Do you know the goal of writing a resume? The goal of writing a resume is to get the interview. That is it. In most cases, the resume doesn’t get you the job, the interview does.
+
+10 April 2013
+INSANELY GOOD TITLES
+It is a headline to the experience readers will receive if they click! Your ad is a headline that makes a promise to the user. When they click on the ad, they get to experience the story told on your landing page.
+
+10 April 2013
+INSANELY GOOD TITLES
+If the image is the lure drawing wandering eyes over to your ad, then your title is the hook. Give it a slight jerk and try to catch your prospects’ thoughts. Connect a word or phrase in your title to the emotional trigger in your readers. Something they love or hate.
+
+10 April 2013
+INSANELY GOOD TITLES
+Something they love or hate.
+
+10 April 2013
+INSANELY GOOD TITLES
+Something of deep interest or importance to them. The easiest way to do this is to have the title contain the psychographic target word.
+
+10 April 2013
+INSANELY GOOD TITLES
+Targeting fans of Van Halen? Hard to go wrong with “Van Halen” somewhere in the title. In fact, for something with such strong affinity, it is hard to beat “Do You Love Van Halen Too?”
+
+10 April 2013
+COMPELLING BODY TEXT WITH A CALL TO ACTION
+Make an offer in your ad that you deliver on your landing page.
+
+10 April 2013
+COMPELLING BODY TEXT WITH A CALL TO ACTION
+Include the image from the ad on the landing page, and conversion rates will improve even more!
+
+10 April 2013
+COMPELLING BODY TEXT WITH A CALL TO ACTION
+Include the image from the ad on the landing page, and conversion rates will improve even more! The repeated image offers greater comfort and consistency to visitors and lets them know they are in the right spot to continue the story.
+
+10 April 2013
+COMPELLING BODY TEXT WITH A CALL TO ACTION
+The body text in the ad is the start of the story you continue on your landing page. Make it as interesting a story as possible.
+
+10 April 2013
+COMPELLING BODY TEXT WITH A CALL TO ACTION
+The body text makes a compelling offer with a call to action. The offer is why the user clicks. The call to action encourages “click.” If you are an auto mechanic, offer a coupon for a “Free Brake Inspection.”
+
+10 April 2013
+COMPELLING BODY TEXT WITH A CALL TO ACTION
+Immediately delivering on the offer builds credibility and begins the front porch relationship. No matter what you are selling, always find a way to make an attractive offer in the body text of your ad.
+
+10 April 2013
+POWER WORDS TO TRIGGER EMOTIONAL RESPONSE
+Do you see a pattern here? Marketing on the front porch is about giving things away.
+
+10 April 2013
+POWER WORDS TO TRIGGER EMOTIONAL RESPONSE
+The “free” word is a powerful word. We frequently give away free information such as a “Free Guide” or “7 Secrets to _______” where you can fill in the blank based on your business. People like lists, people like secrets, and people like free.
+
+11 April 2013
+PLAIN, CONQUERING, ENDEARING, HEROIC, SARCASTIC, HYPED, COMPASSIONATE, AND ...
+This is Facebook. We don’t have to guess at the words our customers respond to. For those who “like” our pages and set their profiles to be public, we can see tens of thousands of fan pages they have already “liked”! We can review these page titles to discover words that our fans (our targeted psychographic) have already responded to!
+
+11 April 2013
+PLAIN, CONQUERING, ENDEARING, HEROIC, SARCASTIC, HYPED, COMPASSIONATE, AND ...
+Words right out of our prospects’ profiles. What words appear frequently on your fan’s likes and interests? The more fans you collect, the more words you capture, the better you can find common words that naturally appeal to your fans.
+
+11 April 2013
+PLAIN, CONQUERING, ENDEARING, HEROIC, SARCASTIC, HYPED, COMPASSIONATE, AND ...
+They need their wives to tell them—and they do. Everyone has a tone, and in ad copy you should actively choose to create a tone. Name your tones in terms like Romantic, Sensual, Endearing, Conquering, Heroic, Hyped, Compassionate, Sensual, Friendship, to help give them meaning and identity when you write. When writing ad copy, select a tone you believe may be appropriate for your targeted demographic.
+
+11 April 2013
+PLAIN, CONQUERING, ENDEARING, HEROIC, SARCASTIC, HYPED, COMPASSIONATE, AND ...
+When writing ad copy, select a tone you believe may be appropriate for your targeted demographic. Write an ad in that tone and write an ad in an opposite tone.
+
+11 April 2013
+SELL A BENEFIT, NOT A PRODUCT
+Here are some examples of writing a headline using different tones: • Boring: Lose 10 Pounds • Conquering: Destroy Fat Forever • Sensual: Love Your Body Again
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+You need them to purchase. An ad that gets you a lot of clicks but no sales is a failure. It is that simple.
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+Successful ads must do more than deliver high CTR.
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+Always remember your ad is just the first step of a more complex ecosystem. A good ad complements the landing page and leads the prospect to an eventual sale.
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+Your landing page is the story behind your ad.
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+Although we will cover this concept in more detail in a chapter on landing pages, let’s introduce the topic here. The goal of your landing page is not to make an immediate sale.
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+The goal of your landing page is not to make an immediate sale. It is to engage your prospects in “front porch” conversations by capturing their information and beginning the process. What you are offering in your ad and on your landing page may not be your product at all!
+
+11 April 2013
+SUCCESSFUL ADS STILL FAIL
+That result is the beginning of a front porch conversation. Your ad sells your front porch! If you do not get a real result from your ad, a measurable response that starts a front porch conversation, then the ad has failed.
+
+11 April 2013
+AUTOMATIC HEADLINES
+More accurately, if you do not get opt-ins for additional conversations, then the ad, the landing page, or both have failed you.
+
+11 April 2013
+RIGHT ANGLE MARKETING
+Right angle marketing, originally a concept for masters of search and print advertising, is especially powerful on Facebook. Right angle marketing is advertising a product or service not based on users’ immediate needs, but on • who they are, • where they hang out, • what they believe, regardless of what they happen to be doing right this minute. What makes the sale a right angle?
+
+11 April 2013
+RIGHT ANGLE MARKETING
+Most people treat Facebook as another method of search advertising. They only come at their prospects head-on. Facebook demands a bit more finesse. Facebook requires more right angle marketing. A hidden power in Facebook is that it can help you discover these right angles. Facebook will help you discover ways to connect to your prospects that you never imagined.
+
+11 April 2013
+DO YOU SELL CHECKS, MUGS, PENS, AND T-SHIRTS?
+Don’t focus on the low price, look for right angles. There’s a million of’em! Right angles can be inexpensive to target on Facebook.
+
+11 April 2013
+SEARCHING FOR RIGHT ANGLES
+One website sells more than 1,500 magazines across 75 categories. Magazines are a great overview of people’s likes and interests.
+
+11 April 2013
+SEARCHING FOR RIGHT ANGLES
+I was surprised to find checks advertised in a dog magazine. But after getting over that initial surprise, I would not be surprised to find them advertised in a cat, horse, fish, or bird magazine too. Why? Because I now see the natural connection between the product and enthusiasts wanting customized checks. They use checks to emotionally connect to a pet or companion. I found a couple of Alaskan cruise ads in an arthritis magazine.
+
+11 April 2013
+SEARCHING FOR RIGHT ANGLES
+I found a couple of Alaskan cruise ads in an arthritis magazine. What do Alaskan cruises have to do with arthritis? Nothing—except that many older people are highly interested in both curing arthritis and going on cruises.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+Nothing—except that many older people are highly interested in both curing arthritis and going on cruises. Right angle marketing. Here’s another example: if you pick up a magazine like Black Belt, in the back you will frequently find ads for make money at home opportunities, real estate, etc.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+Here’s another example: if you pick up a magazine like Black Belt, in the back you will frequently find ads for make money at home opportunities, real estate, etc. What does martial arts have to do with real estate investing? Obviously there is no direct connection. But martial arts enthusiasts are ambitious and competitive. They also relate to authority in a certain kind of way. So an ad for a real estate investment course that talks to them in alpha male language stands an excellent chance of doing well. At my Maui Elite Master’s Summit, a $5,000-per-person marketing seminar, I asked for a show of hands: “How many people in this room are brown belt or above in martial arts?”
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+There was a report that Facebook used to produce for advertisers automatically called the “Responder Profiles” report. Facebook turned it off because advertisers didn’t know how to use the data it generated.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+The report is simple. It lists the most commonly liked interests, books, movies, music, and TV shows of people who have clicked on your ads—ranked by CTR.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+This is not a surprise, because it generated data about right angles. We called it the “Right Angle” report.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+Ask yourself a specific question. Ask yourself, “How might I use the most popular books, music, or TV shows to increase my conversion rates?”
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+The real opportunity in the likes and interests common to your prospects is improving how you target and talk to those prospects.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+The real opportunity in the likes and interests common to your prospects is improving how you target and talk to those prospects. It is to incorporate the most common likes and interests of people who click on your ads directly into your ads, your landing pages, and your follow-up copy. The more you know about your prospects, the more you can speak to them in words they understand.
+
+11 April 2013
+THE RIGHT ANGLE REPORT
+The more you reflect and connect to your prospects’ personal interests, the more comfortable they feel standing on your front porch.
+
+11 April 2013
+THE AD IS FATIGUED, IT MAY NOT BE DEAD
+A successful ad is a success. Celebrate it—it cannot run forever.
+
+11 April 2013
+THE AD IS FATIGUED, IT MAY NOT BE DEAD
+The ad was great. Ad fatigue is a signal to try a new right angle.
+
+11 April 2013
+THE AD IS FATIGUED, IT MAY NOT BE DEAD
+Facebook says its most successful advertisers change their ads about every 12 days. Here is an amazing secret.
+
+11 April 2013
+THE AD IS FATIGUED, IT MAY NOT BE DEAD
+Here is an amazing secret. You can also change them back. If an ad fatigues after 12 days, it will probably come to life again in another 90 to 120 days—sometimes even faster. As you create more and more successful ads, finding more and more right angles, put them into new campaigns. Eventually, you have more and more campaigns to put into rotation. Ad fatigue will have helped you test and build hundreds of tiny conversations. Keep the ones that work and use them over and over again. You will be so intimately connected to your target audience that you will have customers for life.
+
+11 April 2013
+Chapter Eleven - The Well-Paid Facebook Anthropologist
+Put on your lab coat, bring your magnifying glass and lab journal, and start observing. Anthropology is the study of humanity, and humanity is on Facebook.
+
+11 April 2013
+SEARCHING ON FACEBOOK
+In the process of building the world’s most amazing social connection tool, Facebook has built the world’s most amazing anthropological tool. Especially for marketers. Facebook is an absolutely amazing source of psychographic anthropology. As an advertiser you are also trying to better understand your slice of humanity, including:
+
+11 April 2013
+SEARCHING ON FACEBOOK
+As an advertiser you are also trying to better understand your slice of humanity, including: • What makes them tick? • What grabs their attention? • What motivates them to purchase my product? Do you wish to understand your prospects better?
+
+11 April 2013
+SEARCHING ON FACEBOOK
+It helps you find right angle marketing opportunities. You can begin your anthropology studies simply by typing in a psychographic target word or phrase into Facebook’s search bar and seeing what Facebook finds. You may notice as you type a word into the Facebook search box that Facebook gives you “real-time” search results in a pop-up menu below the search box.
+
+11 April 2013
+SEARCHING ON FACEBOOK
+Facebook shows people, pages, groups, apps, and events that match your search.
+
+11 April 2013
+SEARCHING ON FACEBOOK
+It can be helpful to use a new user’s account when doing Facebook search anthropology, one that does not have any initial friends, likes, or interests. Facebook search results are customized to the individual user.
+
+11 April 2013
+SEARCHING ON FACEBOOK
+Remember, Facebook does not allow you to directly target another user’s group, event, app, or page. However, its psychographic lexicon may closely or even exactly match existing names of groups, events, apps, or pages.
+
+11 April 2013
+SEARCHING ON FACEBOOK
+When you find a group, event, app, or page that looks like it might be a good psychographic target, you need to explore your ad interface to see if there is a Facebook match. If Facebook says “no,” keep looking a little while longer. The match may still be there with a slightly different spelling or phrasing.
+
+11 April 2013
+FAN ANTHROPOLOGY
+In Facebook, people voluntarily profile themselves.
+
+11 April 2013
+FAN ANTHROPOLOGY
+Public profiles contain detailed psychographic information neatly arranged into categories, including • music, • books, • movies, • television, • activities, • interests, • basic information.
+
+11 April 2013
+FAN ANTHROPOLOGY
+“Activities and interests” is the ultimate gold mine in these profiles.
+
+11 April 2013
+FAN ANTHROPOLOGY
+The interests list appears to record every page this user has liked. What an amazing source for discovering hidden, related psychographics and right angles!
+
+11 April 2013
+FAN ANTHROPOLOGY
+To make it even nicer for the Facebook anthropologist, these titles have hover displays. Hover over the links, and you can see how many people have liked the page, indicating how useful that word or phrase may be as a psychographic target in Facebook. People may like dozens of books, movies, actors, athletes, movie stars, musicians, TV shows, music groups, schools, universities, teams, and more.
+
+11 April 2013
+FAN ANTHROPOLOGY
+We are always looking for patterns. Among all of this complexity we ask a simple question, “Which likes and interests appear again and again in the profiles of our customers?”
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+• Search for acronyms.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+• Follow the chain of page likes.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+Pages that you have found when searching your likes and interests also like other pages, and those pages also like other pages, creating a chain of pages that like each other. Once you have found pages with large numbers of likes themselves, see what pages they like, and visit those liked pages, too.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+• Watch your Facebook page’s right-hand column.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+If you are targeting “hot rods” enter: • hot rods a, • hot rods b, • hot rods c, In the above example, I call the word “hot rods” a base word.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+For example, for hot rods, Facebook suggested I add “hot rod circuit,” but it did not suggest the base word “hot rod.” If you notice that “hot rod” is singular in Facebook’s suggestion,, you greatly expand the Estimated Reach. I don’t know why Facebook didn’t suggest hot rod, but it didn’t. So you need to go looking for it. All new base words you find this way can be separately entered into an new alphabet search: • hot rod a • hot rod b . . . • hot rod z It is simple, but it works. For a live demonstration video of this technique visit www.perrymarshall.com/fbtoolbox/ and watch the demonstration tutorials.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+There are even more people to add to estimated reach. You want to find everyone who should see your ad. There are several reasons this process is so difficult.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+Perhaps somebody spelled “hot rod” without a space between hot and rod. If you think of a spelling variation, test it, and see if Facebook considers it a legitimate interest. If it is legitimate, then alphabet search it to look for additional phrases. Save all of the interests you find in a dummy ad, an ad you create but never run.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+Save all of the interests you find in a dummy ad, an ad you create but never run. I fill up lots of dummy ads with target psychographics and use the “Create a Similar Ad” button to later create ads from the dummy. It saves a lot of time.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+Do not run every interest you find in one ad. Break them into different ads when they are really targeting different things.
+
+11 April 2013
+ANTHROPOLOGY AT THE “INTERESTS” AD INTERFACE
+The broad categories that Facebook makes available for targeting as interests are also anthropological clues worth investigating. The Family Status category especially offers some new ways to divide up and study demographics that are not available in any other way (see Figure 11.2). You can target people in a geographic target area who specifically identify themselves as being engaged, newlywed, parents, or even parents of children of a specific age. Simply reviewing the broad category interests that Facebook has identified is an intresting anthropological overview of the data in Facebook.
+
+11 April 2013
+ANTHROPOLOGY OUTSIDE OF FACEBOOK
+You can do interest anthropology outside of Facebook. Look at these outside sources for additional right angle and direct-marketing targets. Three quick tools to use without leaving your desk are • Google search tools, • Amazon.com, • eBay.
+
+11 April 2013
+ANTHROPOLOGY OUTSIDE OF FACEBOOK
+RELATED SEARCHES. Shows you in one location a large list of terms related to your original search term. These related searches provide great hints for other potential interests to try to target in Facebook. If you search on the term “Hot Rods” in Google, you may see the following related searches. This list (Figure 11.4) contains new terms you may be able to target in Facebook in addition to “hot rods.” “Hot Rods” and the singular form “Hot Rod” together in Facebook have an estimated reach in the United States of 171,000 people.   FIGURE 11.4–Related Searches for Hot Rods If all you add is the term “muscle cars” displayed in Related Searches, you can now target 274,000 people.
+
+11 April 2013
+ANTHROPOLOGY OUTSIDE OF FACEBOOK
+In order to understand which of these terms bring you more clicks, you may wish to break different sets of terms into different ads and not lump them all together. Have one ad for hot rods, another ad for muscle cars, and yet another ad for classic cars.
+
+11 April 2013
+ANTHROPOLOGY OUTSIDE OF FACEBOOK
+Use Amazon.com to identify products, authors, and books for direct attack and right angle marketing.
+
+11 April 2013
+ANTHROPOLOGY OUTSIDE OF FACEBOOK
+Use Amazon.com to identify products, authors, and books for direct attack and right angle marketing. Search on your interests terms in Amazon to discover the names of authors, books, products, music, and artists that relate to your terms. If one of these items is popular enough, it may have a lot of “likes” in Facebook and may be a good item to add to interests. Sometimes this is easy.
+
+11 April 2013
+ANTHROPOLOGY OUTSIDE OF FACEBOOK
+Another great place to search for direct and right angle marketing ideas is eBay. Search for a target term in eBay and it will automatically display to you hundreds of related names, categories, and products.
+
+11 April 2013
+YOUR ADS FIGHT TO THE DEATH, LIKE GLADIATORS IN THE FACEBOOK COLOSSEUM
+Be brutal to your ads. Don’t become emotionally attached to them. They must fight, win, or die. They are your gladiators in the Roman Colosseum of Facebook.
+
+11 April 2013
+YOUR ADS FIGHT TO THE DEATH, LIKE GLADIATORS IN THE FACEBOOK COLOSSEUM
+If it’s difficult to write a great ad, don’t try to write great ads. Instead create multiple ads, as many as five at a time. Submit them to the Facebook Colosseum. Let the crowds decide the winner. All ads must be tested in combat. There is only one way to know that an ad is truly great—a high click-through and/or conversion rate. The other ads lay bleeding at its feet. If your gladiator delights the crowd, they vote to keep him alive for another day.
+
+11 April 2013
+YOUR ADS FIGHT TO THE DEATH, LIKE GLADIATORS IN THE FACEBOOK COLOSSEUM
+Always write at least two ads for any targeted profile. Display both ads at the same time. Whichever performs best is victorious—use it more. The loser is killed with the sword—deleted!
+
+11 April 2013
+YOUR ADS FIGHT TO THE DEATH, LIKE GLADIATORS IN THE FACEBOOK COLOSSEUM
+You do not pick the best ad in this scenario—your customers do. Your job is to create and train a whole field of gladiators.
+
+11 April 2013
+YOUR ADS FIGHT TO THE DEATH, LIKE GLADIATORS IN THE FACEBOOK COLOSSEUM
+Your job is to create and train a whole field of gladiators. See what delights the people in the bleachers. See what inspires them to click. Then give the crowd more of what it demands. Be warned, your crowd is fickle.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Be warned, your crowd is fickle. What amuses Rome this week may bore it next month.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Oh well, we work with what we have. But unlike Google search, where you generally try to optimize for the absolutely best ad, in Facebook you frequently allow multiple ads with a reasonable click-through rate (CTR) to keep running.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Even with multiple conversion rates, as long as the conversion is still profitable, you’ll usually keep the ad.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Even with multiple conversion rates, as long as the conversion is still profitable, you’ll usually keep the ad. Part of the reason for this decision is that the split tests aren’t as “scientific” on Facebook as in other advertising campaigns.
+
+11 April 2013
+A/B AND SPLIT TESTING
+The simplest test is the duplicate ad test.
+
+11 April 2013
+A/B AND SPLIT TESTING
+You could change the headline, the image, the capitalization, the punctuation, the body text, or even the destination URL. We suggest you change the image first. This process is as close as you can get in Facebook to a formal split test.
+
+11 April 2013
+A/B AND SPLIT TESTING
+If you are not there to watch the ads closely, you can place them into two separate campaigns with a fixed daily budget and an identical cost-per-impressions (CPM) bid calculated to give you a reasonable number of impressions. When each campaign ends, your test is over. Choose in advance a test of at least 4,000 impressions per ad to see if you get any clicks (you may need to use CPM bidding to get this number of impressions if the ads have low CTR).
+
+11 April 2013
+A/B AND SPLIT TESTING
+Choose in advance a test of at least 4,000 impressions per ad to see if you get any clicks (you may need to use CPM bidding to get this number of impressions if the ads have low CTR).
+
+11 April 2013
+A/B AND SPLIT TESTING
+Brian Teasley and Perry Marshall offer an online split-test algorithm that tells you how confident you can be that one ad is actually a winner. The test is available at http://splittester.com/.
+
+11 April 2013
+A/B AND SPLIT TESTING
+In many cases in Facebook, a reliable 0.138% CTR is great. In other cases, you might even be happy with a 0.052% CTR.
+
+11 April 2013
+A/B AND SPLIT TESTING
+If your estimated reach is large—a few hundred thousand people or more—then it really pays off to split test 10 to 20 ads or more as you look for the most effective ad before opening up the advertising budget and purchasing tens or hundreds of millions of impressions. Make a list of things you are going to change for your split tests and work your way through the list, doing one at a time.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Make a list of things you are going to change for your split tests and work your way through the list, doing one at a time. We will order these changes in their likelihood of having the greatest impact. Change the following during split tests: • Image • Headline text • Headline word order • Headline punctuation • Body text (offer) • Body text call to action • Body text sentence order • Body text punctuation
+
+11 April 2013
+A/B AND SPLIT TESTING
+In a Facebook split test, don’t look just at the total CTR and throw away the underperforming ad. That ad may have been highly effective for a targeted subset of your users. In Facebook, when judging an ad’s effectiveness, look at the total CTR and the CTR for different responder demographics and geographics.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Look at the detailed, Facebook responder demographics report summarized by ad before you dismiss any ad as underperforming.
+
+11 April 2013
+A/B AND SPLIT TESTING
+The responder demographics report shows how well your ad does with specific demographic and geographic groups.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Sometimes you need to try a totally new ad with everything different from your best-performing ad: a different headline, a different image, and a different body text. Test a totally different ad at least every fifth test.
+
+11 April 2013
+A/B AND SPLIT TESTING
+In Facebook, we are no longer really trying just to find the best ad that works. In Google, we obsessed about that. We don’t here. On Facebook, we’re trying to keep the user community engaged and entertained. So we provide and test a lot of different ads, and we have many ads available for the user community to view at any given time.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Amazing tools are available to help you split test and develop your website. Google’s Website Optimizer is one such tool.
+
+11 April 2013
+A/B AND SPLIT TESTING
+Will a call to action button that says ORDER NOW perform better than an call to action button that says ORDER HERE? Don’t guess. Split test. Website Optimizer will tell you which performs better and by how much. Google provides you these tools for free because it believes that helping you get better at converting traffic you drive to your website will make you want to buy more ads to drive more traffic.
+
+11 April 2013
+A/B AND SPLIT TESTING
+These tiny tweaks have an amazing compounding effect. Small hinges swing big doors.
+
+11 April 2013
+A/B AND SPLIT TESTING
+“Every week I am making it better. I’m tracking, I’m testing. I’m split testing. I’m peeling and sticking. I’m testing landing pages. I’m killing ads that don’t perform well and testing them with new ones.
+
+11 April 2013
+CPC VS. CPM BIDDING
+Every successful trader of commodities, futures, and stocks will tell you, the secrets to success are: • Recognizing priceless information where other people only see noise, and • Applying strategies other people ignore. Every Facebook ad you see potentially offers you valuable insights that “normal” people merely shrug off as “advertising” or “spam.”
+
+11 April 2013
+CPC VS. CPM BIDDING
+Many people think CPC is safe and CPM is risky, and believe you should always do CPC. They are wrong. CPC cuts risk, but at a price.
+
+11 April 2013
+CPC VS. CPM BIDDING
+CPC cuts risk, but at a price. CPC bidding is almost always the more expensive way to advertise.
+
+11 April 2013
+CPC VS. CPM BIDDING
+I frequently move ads and whole campaigns back and forth between CPC bidding and CPM bidding. I recommend CPC bidding if • you are testing new ads, • you are not confident in the ability of your ads to get and maintain a high click-through rate (CTR), • you need to start fast, • you know your ad may soon be fatiguing, • you cannot or will not regularly check up on your ads, and
+
+11 April 2013
+CPC VS. CPM BIDDING
+• you cannot or will not regularly check up on your ads, and • if the cost of maintaining a CPM campaign does not justify the money saved.
+
+11 April 2013
+CPC VS. CPM BIDDING
+It’s hard to write ads with high click-through rates (CTR) at first. My first suggestion for good ads is go ahead and write bad ads.
+
+11 April 2013
+CPC VS. CPM BIDDING
+It’s difficult to impossible for you to guess in advance which of your 10 ads will perform best. So test a bunch of different ads with CPC. If you need to test beyond 2,000 impressions because of low CTR, then switch to a CPM bid. Watch how your ads perform.
+
+11 April 2013
+CPC VS. CPM BIDDING
+Once you have identified your best-performing ad, you might want to rebid the ad as CPM, slashing your cost.
+
+11 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+In Figure 13.1, you can see we entered a “Max Bid” of 45 cents for this specific ad. This is a real ad with real data. Facebook proposed a “Suggested Bid” of $1.38–$2.07. You would think that the ad would not even be displayed once, since it is bid dramatically lower than the suggested bid.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+You would think that the ad would not even be displayed once, since it is bid dramatically lower than the suggested bid. However, so far today Facebook has shown the ad more than 20,000 times and charged only .38 cents for each click.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+Ad Score = Bid Price x Click-Through Rate.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+CPM” in Figure 13.2 was 28 cents. Average CPM is what Facebook ultimately looks at to determine if it will display your ad. If that number is high enough, then Facebook will eventually display your ad.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+If that number is high enough, then Facebook will eventually display your ad. If that number falls too low, then it will stop showing your ad unless you raise your CPC bid.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+Facebook isn’t giving away impressions for free. If an ad doesn’t make enough money for Facebook, then it simply stops showing your ad. We always calculate what we are willing to pay for our clicks and bid accordingly.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+We always calculate what we are willing to pay for our clicks and bid accordingly. I’ve learned not to blindly follow Facebook’s bidding suggestions. At any given moment, Facebook selects ads to display based on what each advertiser is bidding, the performance of all the advertisers’ various ads, the space Facebook has available, the number of minutes left in the day, and the limitations of each advertiser’s budget.
+
+16 April 2013
+THE CRAZY WORLD OF CPC BIDDING
+Strategy 2: CPC Bid Down (Fast Start)   This strategy seeks to aggressively follow the suggested bid at launch and then dramatically reduce bids near to what is actually being paid for clicks. In this way, you keep yourself from overpaying for clicks when the ads start to fatigue. It also keeps the bid near what Facebook has been willing to accept for a click. 1. Start by bidding two cents higher than the minimum suggested bid. 2. Check your ad every two to three hours each day. If the suggested bid has decreased, then lower your bid. 3. Once you have reached the lowest suggested bid, keep reducing your bid 10 cents an hour. 4. Continue step 3 until you approach within 10 cents of the average CPC you are actually paying for your ad. 5. Keep your bid at this lower level until Facebook stops displaying your ad for at least 24 hours. 6. If Facebook stops displaying your ad and the ad has not fatigued, begin again at step 1. 7. If Facebooks stops displaying your ad and the ad was fatigued, then turn the ad off. Turn the ad back on without changing the bid if you […]
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+It is a second bidding method that Facebook offers. CPM stands for “Cost Per Thousand impressions” (M = 1,000). You can tell Facebook that you are willing to pay to simply have it display your ad 1,000 times whether or not anyone clicks on the ad.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+A key difference between CPC and CPM is who becomes the gambler, who takes the risk. In CPC bidding, Facebook is the gambler; it displays your ads for free; payment comes only if someone clicks on the ad, and Facebook has no guarantee that will happen.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+You will usually get at least 1,000 free impressions on each new CPC ad. In CPM bidding, you are the gambler.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+CPC and CPM are, in many ways, two sides of the same coin. It is really important to understand that you can calculate the CPM on an ad even if it was bid as CPC, and you can calculate the CPC on an ad even if it was bid as CPM.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+Selecting CPM does increase both risk and reward for you the advertiser and is almost always the least expensive method to advertise on Facebook.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+Consider using CPM bidding if • having a low cost per click is essential to the success of your campaign; • you are spending a lot of money on Facebook clicks; • you are highly confident in the ability of your ads to get a high CTR; • you believe your ad will continue to perform strongly during the CPM campaign duration; • you have the ability to regularly check up on your ads’ performances; • you are running a more formal split test.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+CPM is the only bidding method on Facebook that can deliver to you clicks for less than a penny a piece.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+A well-managed CPM campaign can easily save you at least 20%.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+If you have tested and proven that an ad reliably delivers a CTR near or above 1%, then that ad is a great candidate for CPM pricing.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+If you have tested and proven that an ad reliably delivers a CTR near or above 1%, then that ad is a great candidate for CPM pricing. The secret to a good CPM campaign is using well-targeted psychographics, demographics, and geography to capture a highly responsive user group. A highly responsive user group increases CTR, but since you are not paying for clicks but for impressions, your cost per click falls dramatically. Say I was willing to pay on average as much as 50 cents a click. What might 1,000 clicks cost me if my ad has a CTR of 1%? Well, if I am bidding CPC, I just buy the clicks at 50 cents a click. It costs $500 to buy 1,000 clicks. The CTR doesn’t matter; it always costs $500. However, if I buy 1,000 impressions for 75 cents (a reasonable bid), and I have a 1% CTR, then I get 10 clicks for 75 cents. I am buying clicks at 7.5 cents each. Now 1,000 clicks costs me only $75. Experts love CPM bidding for good reasons.
+
+16 April 2013
+WHEN TO USE CPM BIDDING
+Say I was buying 1,000 clicks at 50 cents a click, and my CTR is 0.07%. What will it cost me to buy 1,000 clicks paying 50 cents CPC? $500. • What will it cost me to buy 1,000 clicks paying 50 cents CPM? $714. • What if my CTR is 0.08%? I can buy 1,000 clicks paying 50 cents CPM for $625. • What if my CTR is 0.09%? I can buy 1,000 clicks paying 50 cents CPM for $555. • What if my CTR is 0.1%? I can buy 1,000 clicks paying 50 cents CPM for $500, breaking even with CPC bids. • What if my CTR is 0.2%? I can buy 1,000 clicks paying 50 cents CPM for $250. • What if my CTR is 0.3%? I can buy 1,000 clicks paying 50 cents CPM for $167. • What if my CTR is 0.4%? I can buy 1,000 clicks paying 50 cents CPM for $125. Do the calculations on your ads.
+
+16 April 2013
+YOU CAN PREDICT AD FATIGUE USING FREQUENCY
+Use CPM Bidding If You Are Running a More Formal Split Test   If you are split testing several ads across more than 1,000 impressions, then use CPM bidding. As each ad hits the targeted number of test impressions, simply pause the ad. This will get all of the ads displayed and the test completed quickly. Purchasing 1,000 impressions is very affordable, and this bidding method gets them displayed relatively evenly, even if some of the ads are not getting clicks.
+
+16 April 2013
+YOU CAN PREDICT AD FATIGUE USING FREQUENCY
+Purchasing 1,000 impressions is very affordable, and this bidding method gets them displayed relatively evenly, even if some of the ads are not getting clicks.
+
+16 April 2013
+YOU CAN PREDICT AD FATIGUE USING FREQUENCY
+Purchasing 1,000 impressions is very affordable, and this bidding method gets them displayed relatively evenly, even if some of the ads are not getting clicks.
+
+16 April 2013
+THE ROLLER COASTER RIDE OF CPM BIDDING
+Ads can fatigue at any time, but if your ad is already working, frequency can clue you into how quickly it may stop working. A frequency of:   0 to 3: Very Low Risk 3 to 6: Low Risk 6 to 9: Moderate Risk 9 to 12: High Risk 12+: Very High Risk
+
+16 April 2013
+THE ROLLER COASTER RIDE OF CPM BIDDING
+Still, there is probably some life left in this ad, especially if estimated reach is not too close to reach. We’ve seen ads run into the 30s successfully and into the 50s not so successfully.
+
+16 April 2013
+THE ROLLER COASTER RIDE OF CPM BIDDING
+Josh has tried CPM for other Facebook business and freely admits it can be hard. However, if you can target a narrow niche of true fans, well, it is pure joy to purchase 105 clicks for 18 cents. His biggest hint for the rest of us: the more obscure the country, the longer you can expect amazing results.
+
+16 April 2013
+SET SPECIFIC GOALS FOR LANDING PAGES
+A well-executed landing page is the difference between a successful Facebook ad campaign and a miserable failure. Getting a prospect to successfully click on an ad is only the first step of a relationship that can continue for days, months, or even decades.
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+You cannot afford to spend that much money on lost leads. Once prospects click on your ad, you have to capture their attention, trigger their interests, and not let them go. Your very livelihood depends on it.
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+First and foremost, you must establish a clear goal for your landing page. The goal must be measurable. In some cases, that goal will be to actually have the prospect complete an order. However, we always recommend an intermediate goal to capture prospects’ information so you have more than one chance to connect with them and complete a sale.
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+It all begins with a compelling offer presented in your original ad. A quick way to establish credibility and build a relationship is to offer something in your original ad that you instantly deliver in your landing page.
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+On a Facebook landing page, this goal has the following two parts:
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+If your offer is to provide free information, it should be information that somebody who would buy your products would likely find interesting. Are you a dentist?
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+On a Facebook landing page, immediately ask for a “like,” in order for prospects to receive access to free information, as seen in Figure 15.2. After prospective customers like the page, we then request their names and email addresses in order to send them the free information.
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+In our experience, it is best to minimize the information and the steps you put in front of the users before you collect their contact information.
+
+16 April 2013
+THE PAGE MUST HAVE A GOAL AND AN OFFER
+You ad should have the following elements: • An eye-catching image • A compelling headline   FIGURE 15.2–Request a “Like” First in Facebook • A specific offer • A call to action, such as “click now” or “like this page.” Next, look at your landing page; it should have the following: • A captivating headline • A compelling offer • A short description or video describing what it is you are offering and what’s in it. Bullets are almost always a good idea here. • An explanation of how to get what you are offering. Do prospects fill in a form, make a phone call, or do something else? • A promise not to violate trust. At minimum, include a link to your privacy policy. You may want to openly state that you do not spam. • The opt-in form itself. Don’t stop thinking about your prospects’ experience after they opt in. After the landing page, arrange for the following steps: • Take them to another interesting page with an additional offer • Automatically follow up with interesting and engaging information • Make a specific request for a deeper connection. To achieve the maximum results from your ad, you
+
+16 April 2013
+VISUALLY PLEASING LANDING PAGES
+To achieve the maximum results from your ad, you design the entire user experience from ad to final purchase.
+
+16 April 2013
+MAKE A COMPELLING OFFER
+A little life. On Facebook—where people go specifically to connect to people—a landing page with a picture of people looking right at you is highly appropriate.
+
+16 April 2013
+MAKE A COMPELLING OFFER
+Facebook users come to the site to be entertained and amused. Tom’s best landing page sequence contained an animated video. Animation is fun. Your presentation can be fun even when the topic is serious. If your opt-in page is off of Facebook, this is even more important.
+
+16 April 2013
+MAKE A COMPELLING OFFER
+Leaving the Facebook environment is especially jarring so don’t send your guests out into a dark alley, alone, to sit by the dumpsters. Facebook Connect, a Facebook programming interface, even makes it possible to extend the Facebook environment directly to your landing page on your website.
+
+16 April 2013
+MAKE A COMPELLING OFFER
+Facebook Connect, a Facebook programming interface, even makes it possible to extend the Facebook environment directly to your landing page on your website.
+
+16 April 2013
+MAKE A COMPELLING OFFER
+Facebook Connect, a Facebook programming interface, even makes it possible to extend the Facebook environment directly to your landing page on your website.
+
+16 April 2013
+DOUBLE YOUR OPT-IN RATE
+So what is your compelling offer? Well, it will be unique to you. Describe your customers, who they are, and why they would buy from you. Then ask yourself this question: Is there something these customers would like to know that I could tell them? If there is, then make that your offer. By the way, there is always something your customers would like to know that your can tell them. If you can’t think of it, then simply ask your customers. They will let you know!
+
+16 April 2013
+APPROACHES TO LANDING PAGE COPY
+Are you currently advertising on Facebook and driving clicks to your website? You have the potential to double your opt-in rate with one simple change. Direct traffic to a Facebook landing page instead of to your website. This strategy repeatedly delivers double-digit improvements in opt-ins and has doubled them in many, many cases.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+Only after they like the page are they even offered the second link in the chain, the opt-in form. Many sellers think that once the user has opted-in and provided their email, the job is done. Wrong. This is actually the best place to now close a sale. Your customer has committed to two actions. They liked your page, and they submitted their email to you. They are in the habit of saying yes so don’t stop asking now. After they have completed your opt-in form, they should be taken to another landing page that contains a video further describing your products and services. They are likely amenable to watching a three- or four-minute video at this point.   FIGURE 15.3–A Chain of Landing Pages and Offers
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+Facebook allows you to build dynamic landing pages on your Facebook page. By dynamic, we mean that the content of the page can change as the user interacts with the page. So the same page in Facebook can look different to the user based on how he responds to prompts on the page. You can even detect if the user has “liked” your Facebook page and change the contents of the page based on that like. First your landing page encourages liking the page, then it requests contact information, then it seeks to get a sale, and then it shares the news with your customer’s friends.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+First your landing page encourages liking the page, then it requests contact information, then it seeks to get a sale, and then it shares the news with your customer’s friends. It is possible for all of this to happen within a single “tab” of a Facebook page. You will need a web page developer to make this work. Dynamic landing pages that require a like before the visitor is offered access to free information outperform static landing pages 300% at acquiring likes.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+Dynamic landing pages that require a like before the visitor is offered access to free information outperform static landing pages 300% at acquiring likes. Moral of the story: if you have a good, free information offer, request a like before giving away the information.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+Moral of the story: if you have a good, free information offer, request a like before giving away the information.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+Moral of the story: if you have a good, free information offer, request a like before giving away the information.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+The vast majority of successful Facebook marketing campaigns we have seen include an autoresponder. I (Perry) think it’s a big mistake not to use email marketing in conjunction with Facebook. Think about it: Facebook was actually built through viral email marketing.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+One of the keys to effective Facebook marketing for a lot of people is not going for the jugular right out of the gate. I learned from Alex Mandossian 10 years ago: If you sell an e-commerce product, or virtually any kind of product on the web, you’re likely going to find more success by targeting people, connecting with them, starting a conversation, and building a relationship with them first, before you try to monetize your clicks.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+I learned from Alex Mandossian 10 years ago: If you sell an e-commerce product, or virtually any kind of product on the web, you’re likely going to find more success by targeting people, connecting with them, starting a conversation, and building a relationship with them first, before you try to monetize your clicks. InfusionSoft founder and CEO Clate Mask tells me that only about 10% of marketers have more than the most rudimentary autoresponder sequence.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+InfusionSoft founder and CEO Clate Mask tells me that only about 10% of marketers have more than the most rudimentary autoresponder sequence.
+
+16 April 2013
+THE LONG AND THE SHORT OF IT
+This is an easy opportunity to separate yourself from the competition. Just 10 well-timed messages can substantially improve your traction.
+
+16 April 2013
+ADS IN CONTEXT
+You have to be able to describe clearly each step in your sales process. What you can’t describe, you will not measure. What you do not measure, you cannot manage. A potential customer clicking on an ad is the first step in a chain of events that hopefully ends with money in your pocket.
+
+16 April 2013
+ADS IN CONTEXT
+(By the way, an email address is about 10 times more valuable than a “like.” Never forget that.)
+
+16 April 2013
+ADS IN CONTEXT
+This is hard to learn, but traffic is not necessarily your friend. Having millions of leads that never produce customers is not a win. It is a wasted expense. It can destroy your business. The goal of your campaign is not to increase traffic; it is to increase sales.
+
+16 April 2013
+ADS IN CONTEXT
+You are seeking to drive the prospect to measurable actions you can use to judge the effectiveness of your marketing decisions, from initial ad to final call to action. Measurable actions include the following: • Clicks • Likes • Visits • Opt-ins • Purchases • Refunds • Complaints • Referrals
+
+16 April 2013
+A BASIC TRACKING SPREADSHEET
+• Repeat business. If you track and measure only CTR, you are getting only a tiny part of the story.
+
+16 April 2013
+A BASIC TRACKING SPREADSHEET
+Leads (May 1 to May 31) 1,547 Cost per lead (CPL) $0.38 Prospects (May 1 to May 31) 129 Cost per prospect (CPP) $4.56 Customers (May 1 to May 31) 13 ost Per Customer (1 month) $45.22
+
+16 April 2013
+TRACKING THE DESTINATION URL
+The URL builder in Google Analytics allows you to specify your original destination URL, and it creates a new destination URL to insert into the ad. You can provide tags for • campaign source (referrer: Facebook); • campaign medium (marketing medium: banner ad); • campaign term (targeting used: U.S. males 18–24); • campaign content (describe the ad itself: post sponsored story); and
+
+16 April 2013
+A SLIGHT BUG IN THE SYSTEM
+• campaign name (name used in Facebook). Later, Google Analytics provides reports to track clicks all the way from an original ad to a final conversion event, even if the conversion event occurred days later.
+
+16 April 2013
+A SLIGHT BUG IN THE SYSTEM
+Another ad tracking resource is HyperTracker.
+
+16 April 2013
+A SLIGHT BUG IN THE SYSTEM
+To use a tracking URL in Facebook ads, we have to tell Facebook that the destination URL is an external URL. If we tell Facebook the destination URL is an external URL, we lose the Facebook social credibility features when the ad displays as shown in Figure 16.1 (e.g. “likes” on the ad, and friends who like the page).   FIGURE 16.1–Social Credibility Displays Below Some Ads
+
+16 April 2013
+Chapter Seventeen - Bolt a Jet Engine to Your Business: Facebook Pages and ...
+Facebook has become one of the world’s most powerful tools to announce special offers and events.
+
+16 April 2013
+SEND TRAFFIC TO A FACEBOOK PAGE
+Facebook has become one of the world’s most powerful tools to announce special offers and events.
+
+16 April 2013
+SEND TRAFFIC TO A FACEBOOK PAGE
+Facebook gives you social validation in the form of likes. Every legit product should have a Facebook page for visible street cred. I’ll go one step further: every product should have a page so you can know precisely who likes or recommends that product.
+
+16 April 2013
+SEND TRAFFIC TO A FACEBOOK PAGE
+I’ll go one step further: every product should have a page so you can know precisely who likes or recommends that product. Being “liked” is central to a well-executed Facebook advertising strategy.
+
+16 April 2013
+SEND TRAFFIC TO A FACEBOOK PAGE
+You can send Facebook ads to any landing page that meets Facebook’s guidelines. But may we gently suggest, strongly encourage, and forcefully demand that you send your leads to a Facebook page and not your own website? If you send your clicks to a Facebook page, then the visitors remain in known and comfortable surroundings.
+
+16 April 2013
+SEND TRAFFIC TO A FACEBOOK PAGE
+Facebook users are very comfortable with, and have very little resistance to, the thought of liking your page. If you simply get the visitor to like your page, Facebook provides you with stunningly powerful methods to reach out to these fans again—both free and paid. In test after test, driving a Facebook click to a Facebook page converts better than driving the click to a landing page on your website.
+
+16 April 2013
+SEND TRAFFIC TO A FACEBOOK PAGE
+A typical Facebook opt-in scenario may have the following steps: • Users click on your ad and go to a Facebook page landing page, usually a welcome tab. • You make an offer on this page that entices readers to “like” the page to receive more free content. • After users like the page, you present them with an opportunity to opt in to an email list that will provide them with a free product or service or enter them into a competition or drawing. • After they opt in to your email list, they see a different landing page with additional information, resources, and offers. This is the first step where they might be taken to a page that is no longer on Facebook. The first three steps all occur within the warm, fuzzy cocoon of Facebook.
+
+16 April 2013
+ADVERTISING TO YOUR FANS
+Please note: I’m not talking about posting a status message. I’m talking about buying an ad that is only seen by fans—an ad that costs a few dollars.   It is highly unlikely 1,000 impressions of a sponsored story or ad will cost Zing-erman’s more than $1.
+
+16 April 2013
+TARGETING FANS
+Facebook’s new advertising modality is unprecedented in the history of advertising. It redefines the field of advertising for small and big companies alike. It means that EVERY business should create a Facebook page, even businesses who scored lower then 3 on the “Is Facebook for Me” test. Your first goal is simply getting your leads and customers to like your Facebook page.
+
+16 April 2013
+“LIKE INFLATION” AND THE NEWS FEED
+You can target Facebook fans, event and group members, and app users in the following three ways. Target: 1. only people who are not fans of your pages, events, groups, or apps; 2. only people who are fans of your pages, events, groups, or apps; 3. only friends of the fans of your pages, events, groups, or apps. Use option 1 to reach people who are not already your fans.
+
+16 April 2013
+“LIKE INFLATION” AND THE NEWS FEED
+If you are just trying to add a fan or find a new lead, there is no need to advertise to people who already like you. When searching for new leads, use option 1 to exclude your fans. Use option 2 to notify existing fans of something new.
+
+16 April 2013
+“LIKE INFLATION” AND THE NEWS FEED
+Use option 2 to notify existing fans of something new. It is very inexpensive to get this message in front of them. If you have 10,000 fans of your local store’s Facebook page, you can likely get your ad displayed 10 times to each of your existing customers for less than $100. Cheap—take advantage of it.
+
+16 April 2013
+“LIKE INFLATION” AND THE NEWS FEED
+Use option 3 to reach out to friends of your fans. Use your existing social credibility to grow your customer base. Targeting tip: always split into a separate ad campaign when you use option 3. These campaigns will be more expensive, so you should advertise and track them separately.
+
+16 April 2013
+“LIKE INFLATION” AND THE NEWS FEED
+However, you should not rely on the free feed to get your messages to all your fans. Why?
+
+16 April 2013
+“LIKE INFLATION” AND THE NEWS FEED
+Why? Because eventually you will be only one of 1,000 or more pages your fans have liked. Your message may not make it into their feed at all. If they don’t frequently “like” your status messages and comment on your page, then Facebook by default stops sending them your status updates. I call this “like inflation.” Just like monetary inflation, over time, like inflation degrades the value of past likes.
+
+16 April 2013
+SPONSORED STORIES
+Facebook understands the power of reaching out to fans and to friends of fans with targeted advertising. To assist you, they have created and continually refine a whole new category of advertising called “sponsored stories.”
+
+16 April 2013
+SPONSORED STORIES
+If you select sponsored stories (see Figure 17.2) , Facebook helps craft a special-looking ad with specific connection targeting. Facebook continues to add new types of sponsored stories based on the destination selected.
+
+16 April 2013
+SPONSORED STORIES
+“Page Like Story”—Sponsored Story
+
+16 April 2013
+SPONSORED STORIES
+FIGURE 17.3–Page Like Story For the example in Figure 17.3, I created a “page like story” for the Perry Marshall page. When somebody likes the Perry Marshall page, their friends see the ad.
+
+16 April 2013
+SPONSORED STORIES
+“Page Post Story”—Sponsored Story
+
+16 April 2013
+SPONSORED STORIES
+It is also a way to reconnect some of your fans to your news feed. If your fans like or comment on your sponsored story, it increases the likelihood of future free messages getting to their feed.   FIGURE 17.4–Page Post Story
+
+16 April 2013
+ADVERTISE TO YOUR CUSTOMERS’ FRIENDS
+You should display a page post message to your fans at least once every three weeks. For small businesses with 10,000 fans, bid the ad CPM, and set a lifetime budget to an amount where the ad will display 10 times to each fan. In my test case, this was a budget of only $40.
+
+16 April 2013
+ADVERTISE TO YOUR CUSTOMERS’ FRIENDS
+Targeting friends of fans is tailor-made for a local store. Once you get somebody to like your Facebook page, you can get your ad in front of friends who also live nearby. Like all Facebook ads, when you specifically target friends, you can filter them further on geographics, psychographics, and demographics. Anyone who sees this new ad will have, by the very nature of the ad type, at least one friend who likes your business.
+
+16 April 2013
+ADVERTISE TO YOUR CUSTOMERS’ FRIENDS
+Anyone who sees this new ad will have, by the very nature of the ad type, at least one friend who likes your business. You get instant social credibility. If multiple friends like your business, they see multiple names. Again, even more instant social credibility. Advertising to friends may also be a way discover people who have not liked enough Facebook pages to match your psychographic profile but still meet your psychographic profile.
+
+16 April 2013
+LIKE WHAT YOU LIKE
+You attract like-minded thinkers by advertising to friends of fans. In my experience, these are rather expensive clicks. I suggest you employ this strategy after exhausting most of the other strategies already mentioned in this book. Facebook’s strangely named “like story” is a way to advertise to friends of your page.
+
+16 April 2013
+LIKE WHAT YOU LIKE
+A favorite techniques for getting likes is what I call, “Like what you like.”
+
+16 April 2013
+LIKE WHAT YOU LIKE
+Of course, whatever you are asking them to like should be somehow connected to your business. For example, if you are a motorcycle repair and customization shop, it’s perfectly reasonable to run an ad with a picture of a beautiful Harley (I know, they’re all beautiful!) and ask readers to like your page if they love their Harley.
+
+16 April 2013
+LIKE WHAT YOU LIKE
+The end result: a Facebook page with 1,047 likes, providing social credibility in less than one week, for only $91.
+
+16 April 2013
+Chapter Eighteen - Free Traffic, Free Impressions, and Paid Advertising
+Which is to say: that business, even though on paper it was worth several million dollars, was not even a real business. It was built on the availability of free customers—which is a foundation of sand. Temporary success at best.
+
+16 April 2013
+Chapter Eighteen - Free Traffic, Free Impressions, and Paid Advertising
+If your business is dependent on free customers, you do not have a business.
+
+16 April 2013
+STATUS UPDATES AS FREE ADS
+The kicker is, once you have solved the conversion puzzle, ALL forms of qualified traffic convert.
+
+16 April 2013
+Chapter Eighteen - Free Traffic, Free Impressions, and Paid Advertising
+If your business is dependent on free customers, you do not have a business. You do not have any kind of “real” business until you have the ability to buy advertising from a variety of available sources and transform that traffic into sales and profits.
+
+16 April 2013
+STATUS UPDATES AS FREE ADS
+You do not have any kind of “real” business until you have the ability to buy advertising from a variety of available sources and transform that traffic into sales and profits.
+
+16 April 2013
+STATUS UPDATES AS FREE ADS
+Make no mistake about it. The primary reason to create Facebook pages that get “likes” by your visitors is to have the opportunity to hit your “likes” with paid advertising. It is always better to learn how to make a paid ad work and then, while the opportunity is available, apply those skills to make a free ad work, too.
+
+16 April 2013
+DON’T SPAM—NEGATIVE FEEDBACK
+At the upper right corner of your posts, when they appear in your news feed, you may click on an X. This X is for negative feedback. Clicking on the X pops up a menu (see Figure 18.1) with multiple, negative feedback choices: hide some or all posts, unlike a page, or mark the post as spam.
+
+16 April 2013
+DON’T SPAM—NEGATIVE FEEDBACK
+One last thought about negative feedback: I (Perry) believe that the surest way to be loved by some is to be willing to be hated by others. This is true not just in marketing but in all spheres of life.
+
+16 April 2013
+DON’T SPAM—NEGATIVE FEEDBACK
+This is true not just in marketing but in all spheres of life. Take a look at any influential, famous, or successful person you care to name.
+
+16 April 2013
+DON’T SPAM—NEGATIVE FEEDBACK
+My question for you: What bold, controversial, and decisive stand can you take that will polarize people—that will repel some and attract others? Success lies on the other side of your answer to that question. That said, from the standpoint of Facebook’s system, it does you no good to make people mad after they’ve become your fans.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+It is more important to spark conversation than to just repost interesting stories.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+It is more important to spark conversation than to just repost interesting stories. It is really important to share front porch conversations and not to continually be selling. Unless you sell fun adventures or events, only the rare post should be directly about your product or service—as rare as 1 in 20 posts. In addition, automatically reposting from your own blog or your Twitter account is not really a good idea.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+In addition, automatically reposting from your own blog or your Twitter account is not really a good idea.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Turn Articles into Trivia Games
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+You discover an amazing article on the polio vaccine that your fans might enjoy. Instead of posting the article, write the following status message:
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Instead of posting the article, write the following status message: Jonas Salk was famous for inventing the ________ vaccine.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Jonas Salk was famous for inventing the ________ vaccine.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Ask Them to “Like” Your Status Updates
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Jonas Salk was famous for inventing the _______ vaccine. Press “Like” if you know the answer.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Almost Always End With a Question
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Jonas Salk was famous for inventing the _______ vaccine. Press “Like” if you know the answer. Did you vaccinate your kids? Why or why not?
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+My favorite book when I was growing up was _____________.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Here is a list of 100 amazing children’s books! Press “Like” if your favorite book is on the list. What was the book and why was it your favorite?
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Here is a list of 100 amazing children’s books! Press “Like” if you think reading to children is a great way to promote literacy. Please support literacy and share this list with your friends.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Questions and Polls
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Questions auotmatically records a fan’s vote, shows how the fan’s friends voted, and displays the total votes in numbers and a bar graph. Questions even allow fans to specifically follow and comment on a question or poll. To create a Facebook question or poll select “Question” instead of “Status” from the share interface. Questions has a powerful viral feature where fans can specifically ask thier friends to answer a question.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Make People Feel Good About Themselves
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+We call these types of status updates “Love Your Mother” messages. Basically, the post is some version of “press ‘Like’ if you love your mother.” On a page dedicated to home-schooling parents, I (Tom) posted the following status update:
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Did you know that on this day in 1887, Anne Sullivan began teaching six-year-old Helen Keller? Press “Like” if you think everyone who teaches six-year-olds is a “Miracle Worker” in their own way. :-)   It is not a surprise that this status update received a home run, with a response rate over 2.5%.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Free Cupcakes
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+The first 25 people to whisper “make my day” at Sprinkles of Palo Alto will receive a free special cupcake.   Might we suggest you go one step further than Sprinkles?
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Remember, Facebook needs to see responses to keep sending your feed to your fans, so you need to get responses on your post.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+The first 25 people to whisper “make my day” at Our Store will receive a free special cupcake. Press “Like” if you love our cupcakes, and tell us why!   Now you have the people coming to the store for free cupcakes and everyone encouraged to press “Like” and add a comment.
+
+16 April 2013
+A WHEELBARROW OF CREATIVE IDEAS FOR DAILY STATUS MESSAGES
+Pictures, Videos, and Links
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+If you are the administrator of the page and they see you liked their comment, it makes them feel especially good. So like lots (but not all) comments. Like the comments you really like.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+If you like them all, it may trigger Facebook to recognize that you are trying to game the system. Be genuine. Be real.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+Some conversations can get heated. We like to stay out of those conversations and allow them to burn themselves out.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+Syndicating Your Status Updates
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+It is possible to directly reference people, pages, events, and groups in your status updates. If you are responding to someone in a comment or posting a status message to someone who has “friended” you, put the @ character before you type the user’s name and you will have the opportunity to turn that name into a link to the user’s profile. The message will also be posted on that person’s home page, visible to the user and his or her friends. If you reference another page, event, or group in your status message, you can also place the @ character in front of the name of the page, event, or group, and those names will become links in your message to the page, event, or the group you referenced.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+If you reference another page, event, or group in your status message, you can also place the @ character in front of the name of the page, event, or group, and those names will become links in your message to the page, event, or the group you referenced. In that way, your status update will appear on the wall of that page or group. This is a powerful method of syndicating your status message to multiple walls all at once.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+This is a powerful method of syndicating your status message to multiple walls all at once.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+Harvest Spontaneous Testimonials
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+• Press “Like” if (your product) has helped you. What do you like most about it? • Press “Like” if you love (your product). What do you love most? • Press “Like” if you use (your product). Why did you choose us? • Press “Like” if you’ve ever recommended (your product) to a friend. What did you say? • Press “Like” if you are a customer. What product do you like most? Not only do these messages elicit conversation, they also deliver great insights into how your customers are thinking about your products and services.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+Commenting on Other’s Walls—Another Reason to Have a Page
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+If you are using Facebook as your page and you post a comment or a status message on another page’s wall, then your post includes your page name, your page thumbnail, and links back to your page. It is perfectly reasonable to identify 50 to 100 additional, active pages whose visitors may also be interested in your page.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+It is perfectly reasonable to identify 50 to 100 additional, active pages whose visitors may also be interested in your page. You may post comments on these pages from time to time that add to the conversation on that page and complement your page’s offerings. Spend some time reading each page and learn what types of comments are common and well-received.
+
+16 April 2013
+PARTICIPATING IN THE CONVERSATION
+Spend some time reading each page and learn what types of comments are common and well-received. Your goal is to blend into the conversation and to occasionally say something so interesting or insightful that readers of those other pages decide to click on your profile and learn more about your page, too. This is a great way to generate some free publicity for your page.
+
+16 April 2013
+UNBLOCK AND MANAGE YOUR OWN NEWS FEED
+Keeping Up With Comments on Your Page
+
+16 April 2013
+UNBLOCK AND MANAGE YOUR OWN NEWS FEED
+If users are making comments in a discussion, it can be easy for you to miss them. However, if you “Use Facebook As Your Page,” you can select to receive a notification email that a user has posted a new question or comment to your page, even in an obscure discussion section. You can then click on that notification and go directly to the point where you need to respond to your user’s comment or question. You may also elect to have these notifications sent directly to your email.
+
+16 April 2013
+UNBLOCK AND MANAGE YOUR OWN NEWS FEED
+At the very bottom of the news feed page is an option marked “Edit Options.” If you click on this link, you find settings for “Show posts from:” Change this setting from the default of “Friends and pages you interact with most” to “All of your friends and pages” as seen in Figure 18.3. This will allow you to be the editor of your news feed.
+
+16 April 2013
+PAGE INSIGHTS
+PAGE INSIGHTS
+
+16 April 2013
+PAGE INSIGHTS
+Insights on page visitors include: • New and lifetime likes • Daily, weekly, and monthly active users • Unique page and post views • Likes and comments on posts • Page fan age and sex demographics • Page fan country and city geographics • Page fan language • Total tab views • External referrers. Insights on posts include: • Impressions • Feedback percentage
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+It was an amazing success delivering thousands of clicks for a reasonable price. So what does it mean when the users stop clicking?   The people are telling you they need to hear or see something else. So what will it be? Here is a secret. Ask them!
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+Your ad that fatigued didn’t fail. It was an amazing success. It is just time to move on to another topic.
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+It turns out that Facebook has provided us with a wonderful tool to change the conversation. And it can be used in many different ways. The tool? Facebook events. You can advertise a Facebook event to your fans (see Figure 19.1). Advertise an event after a group of your ads have fatigued in order to change the conversation.   FIGURE 19.1–Interface to Create a Facebook Event
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+“Ask Campaign” as a Facebook Event
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+To make the campaign more interesting, launch an event where you will commit to answering the most common and most interesting questions—LIVE. Answer questions in a free teleseminar, webinar, or even a live-in-person event. An ask campaign is a guided missile designed to reconnect you to your target audience.
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+You can invite your existing friends to attend your event free in limited size groups. You can advertise to your existing fans to attend your event for very little money. Do both. Don’t know what to talk about or advertise after your ad fatigues?
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+The more event-driven the business, the better your presence on Facebook because Facebook is all about new, novel, different. Make your business more Facebook-friendly and destroy ad fatigue by creating and advertising events. • Offering a special on customers’ favorite product for one day only? Make it an event. • Having a picnic or front porch barbeque? Make it an event. • Giving away cupcakes this coming Tuesday at a Facebook friends’ party? Make it an event. • Bringing in special speakers or musicians? Make it an event.
+
+16 April 2013
+MISSILE ENGAGED—MOVING THE CONVERSATION FORWARD
+Make it an event. • Sponsoring a visiting author? Make it an event. • Hosting a book club, music club, fantasy football club, any club that features a strong psychographic interest in your fans? Make it an event. • Putting on a show that features local heroes or even celebrities? Make it an event.
+
+16 April 2013
+EVENTS DON’T FATIGUE—THEY HAPPEN
+Everyone advertising on Facebook complains about ad fatigue. “I built an ad on Google search and it runs and runs and runs,” they report. “I write an ad on Facebook, and after a week or two it stops getting clicks.” “I’m giving up, I can’t fix this problem.” Unfortunately, there is a fundamental flaw in their thinking. They think they have a problem. They do not. What they describe as a problem is the fundamental nature of Facebook.
+
+16 April 2013
+EVENTS DON’T FATIGUE—THEY HAPPEN
+Ad fatigue is not a problem; it’s an opportunity.
+
+16 April 2013
+THE NEXT MISSILE IS FACEBOOK DEALS
+Facebook is actively developing other additional advertising tools to reach your customers beyond just traditional ads. Facebook Deals, where you can offer your fans specific short-term deals and discounts, is being test launched in several cities as this book is written. Deals is implementing a powerful shopping model of offering large discounts to entice new customers and spread the word of your business.
+
+16 April 2013
+THE NEXT MISSILE IS FACEBOOK DEALS
+Deals is implementing a powerful shopping model of offering large discounts to entice new customers and spread the word of your business. It has powerful viral tools for sharing and liking the deal. It offers additional discounts when they buy the deal with a friend! A deal will live on your main Facebook Page, making it easy for current fans to see and share your special offers.
+
+16 April 2013
+Chapter Twenty - And in the Facebook Bind Them
+Facebook Connect services allows your users to “experience” Facebook social features directly on your website. It presents an absolutely amazing opportunity for you to leverage Facebook’s gigantic social web directly into your products and services.
+
+16 April 2013
+Chapter Twenty - And in the Facebook Bind Them
+If you support Facebook Connect on your website, Facebook users may log into your services using their Facebook ID with a simple press of a button (see Figure 20.1). They do not have to create a new user name or password because you seamlessly support their existing Facebook identity.   FIGURE 20.1–Allow People to Register for Your Web Service Using Facebook
+
+16 April 2013
+Chapter Twenty - And in the Facebook Bind Them
+It Is Insane to Advertise on Facebook and Not Offer a Facebook Connect Login
+
+16 April 2013
+Chapter Twenty - And in the Facebook Bind Them
+On your opt-in form you could demand your prospects type in their name and email address yet again, or you could offer them the opportunity to provide their name and email address with a simple click on a log-in button. Facebook requires you to offer both options to your visitors. Another benefit of using Facebook Connect is that you can access your prospects’ Facebook listed email address.
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+Your Website Pages Can Be Facebook Pages Too
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+It is even possible, when the user likes your page, to provide an optional comment. Facebook says that if the user does add a comment, then “the story published back to Facebook is given more prominence.”   FIGURE 20.2–Facebook Button Allows Users to Like Your Web Pages
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+You can target ads to people who like your content!
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+Likes for Your Facebook Page from Your Website
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+Facebook Comments on Your Website
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+Facebook comments are easy to defend from spam. Users must have a legitimate Facebook ID to post a comment. If someone abuses your wall, you can ban that user once on one page, and he is banned everywhere on all your pages. If you have pages on your website with articles, products, information, video—really any content you can think of—you may want to support Facebook comments on those pages.
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+Streaming Comments on Your Website   If you have an active website or are hosting live conference calls or events from a page on your website, Facebook provides a live, streaming comment window that you can easily plug into your site. This allows for a real-time chat window that displays live, streaming comments of Facebook users.
+
+16 April 2013
+FACEBOOK PLUG-INS LINK YOUR WEBSITE TO THE SOCIAL GRAPH
+Recommendations on Your Website   This plug-in is almost spooky. A visitor to your website can see personalized recommendations on your specific URL based on pages that other Facebook users have liked. Your visitors receive these recommendations whether or not they are logged into your site. The plug-in reviews the social interactions Facebook users have historically had with your URL.
+
+16 April 2013
+DON’T BE A DIGITAL SERF
+Facebook Provides Analytics About Your Facebook Connect Users   Facebook provides analytics that describe how users share information from your website.
+
+16 April 2013
+DON’T BE A DIGITAL SERF
+DON’T BE A DIGITAL SERF   It is possible for your business to build its entire online presence around your Facebook pages, events, and groups. Don’t. This is a profoundly bad idea. It is akin to digital sharecropping where you till the soil and grow the food, but somebody else owns the land. Sharecropping is a time-honored tradition vastly superior to starvation.
+
+16 April 2013
+DON’T BE A DIGITAL SERF
+A serf is always subject to the whims of the king and may be thrown off the land tomorrow. Make no mistake, your Facebook page is on Facebook’s land. Build your entire business around a Facebook page and one day Facebook might decide that it does not like the name of that page.
+
+16 April 2013
+WHITE HAT
+Keep sharecropping. It is a great way to use Facebook to get leads. But please, buy your own fields. No matter how important Facebook becomes for your business, continue to maintain your own site and your own list of customers.
+
+16 April 2013
+Chapter Twenty-One - A Brief History of Google Advertising—and Some ...
+I started using AdWords when it was little more than one month old, and today my books on Google AdWords are the most popular in the world. I’ve had a front-row seat to Google’s zero-to-tens-of-billions smash business success story. I knew exactly what was going on long before Google went public at their audacious opening price of $85. I’ve witnessed the birth and growth of the biggest and most successful advertising machine in history, and it’s been flat-out amazing. Along the way, I also consulted with thousands of people in hundreds of industries.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+Along the way, I also consulted with thousands of people in hundreds of industries. I have close, personal connections with hundreds of solo entrepreneurs and Roundtable members who have grown businesses from zero to millions of dollars of sales. Not only have I observed the pay-per-click industry evolve, I’ve also watched business owners fight their way from zero to raging success. I’ve walked with them through their personal struggles and victories. This is a vitally important chapter for you to read and understand, first and foremost from a Facebook perspective, but more broadly for perspective on any kind of online advertising. Even for forms of internet advertising that we never discuss in this book.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+Even for forms of internet advertising that we never discuss in this book.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+Even for forms of internet advertising that we never discuss in this book. Please pay close attention.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+INSIGHT NUMBER 1. The cornerstone of all internet advertising is market research.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+INSIGHT NUMBER 2. The internet is all about rifle shots not shotgun blasts.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+Facebook likes and interests tell you the same thing. The more narrow your focus, the easier it is to speak to your prospect in the exact language she wants to hear.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+In Jon Keel’s seminar presentation, he explained the huge difference between two keywords that amateurs might assume are similar: “weight loss” and “bariatric surgery,” a procedure that shrinks your stomach. Jon explained that “weight loss” is very general; it’s something people search for when they’re just looking around on the internet. “Bariatric surgery” is a much more serious term for people who have something very exact in mind. It converts to sales much better, and it’s a lot more expensive. Even back then, Jon was painstakingly measuring sales from clicks.
+
+16 April 2013
+FROM GOTO.COM TO OVERTURE TO GOOGLE
+Google researchers probably tested 47 shades of green. At Google, every dispute is settled by testing. Overture did much less of this than Google.
+
+16 April 2013
+SITE DOMINANCE—NO WAY TO CATCH UP
+As you experiment with different ads, landing pages, and offers, you will find it’s devilishly difficult to predict what people want. Heck, I’ve been indulging in the sport of direct marketing for 15 years. But when I try to guess winners on A/B tests, I still get only 50% of the answers right. Even with all my experience, I just don’t know. You don’t guess, you test.
+
+16 April 2013
+SITE DOMINANCE—NO WAY TO CATCH UP
+You don’t guess, you test. One more thing about speed.
+
+16 April 2013
+SITE DOMINANCE—NO WAY TO CATCH UP
+My friend, if you’re online, you gotta’ strip the bureaucracy out of whatever you’re doing and build your business for speed.
+
+16 April 2013
+SITE DOMINANCE—NO WAY TO CATCH UP
+On the internet, once a site establishes dominance, it’s very difficult for rivals to catch up. Sometimes impossible. Why? Because size gives you more speed, speed gives you more size, size attracts audience, audience builds size, and a snowball effect always kicks in.
+
+16 April 2013
+SPEED SPAWNS ANOTHER JUGGERNAUT—AFFILIATE MARKETING
+I wrote the first edition of The Definitive Guide to Google AdWords in the summer of 2003. At this point, AdWords hadn’t quite caught on, but then a young surfer dude named Chris Carpenter wrote a book called Google Cash. Google Cash explained how you could sign up for an affiliate program, sign up for Google AdWords, give Google five bucks and start sending traffic through your affiliate link.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+The genius of Google Cash was: You have zero commitments. It’s way easier to go find another product to promote than it is to own a product or change your own product. Or even change your website, for that matter. The name of the game is speed and testing.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+Google cashers embraced speed and testing overnight. So a new, billion-dollar industry—pay-per-click affiliate marketing—sprang up out of nowhere. At light speed.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+The history lesson has everything to do with Facebook and pretty much anything else you do in marketing or advertising. Because this speed/testing combo was like crack cocaine.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+• From the perspective of Google—or Facebook—affiliates are disposable. “Thank you, Mr. Affiliate, for your giving us so much money for these last few years. Now that you’ve helped us attract ‘real’ businesses, we’re done with you. Happy trails, you poor, pathetic scumbag.”
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+• Google and Facebook don’t like affiliates all that much. Not usually. After a couple of years, Google started tightening the screws on affiliates. Facebook will, too. Please understand that some affiliates are really cool and very likeable.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+Please understand that some affiliates are really cool and very likeable. At the same time, average, unsophisticated, garden-variety affiliates are the trailer trash of the internet. Just tellin’ it like it is. So with that in mind, I’d like to offer you 10 tips on how you build a robust, stable, long-term, internet business.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+1. Build a presence over time that’s difficult or impossible to knock off. Any business that can be replicated with “cut and paste” is the online equivalent of a shantytown. A trailer park in Tornado Alley. You want original content, extensive sales funnels, and a unique selling proposition that’s hard for others to attain. 2. Build assets: email lists, snail-mail lists, unique products, unique processes, unique experiences. You want your business to run on systems that you own, not rent. You want to build a brand. Better if there’s more to those systems than meets the eye. By the way, you can do all of those things as an affiliate. You can build a website, and content, and systems. All those things are hard, tangible assets. Intellectual property. Technology. Patents. Things that aren’t easy to replicate. Amazon is nothing more than a sophisticated affiliate for probably 25% of the things they sell. All those product reviews on Amazon are a huge asset. 3. Consider the value of your product. Google’s staff who manually review websites use this criteria: “Would I send my grandma to this site?” Your criteria should be: “Would I sell this to my grandma? Or my […]
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+Remember that solid, dependable, and honest beats edgy every time—in the long run. 8. Make your product something other sites, including Facebook, would feel proud to advertise. Every shopping mall in the country would be delighted to have Nordstrom as their anchor store; become Nordstrom for internet sites. 9. Do not look like, taste like, or smell like an affiliate—even if you are an affiliate. You should add value to the equation. 10. Understand how media companies tighten the screws on affiliates and “thin” advertisers. I shall explain this concept in the next section. W-a-a-a-y back in 2004 (how many internet dog years has that been?)
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+The thrust of Jet Fuel for Google Cash is that affiliate marketing is just a way to test new markets. It’s not a permanent place to camp out! As pay-per click grew more sophisticated, Google started erecting hoops for advertisers to jump through.
+
+16 April 2013
+THIS IS THE HISTORY LESSON, RIGHT HERE
+Google and Facebook want their users to have the highest-quality experience possible. They do not ultimately consider their advertisers to be their customers. They consider their users to be their customers. Never forget that. You need to study the above list of 10 tips very closely.
+
+16 April 2013
+BID PRICES: THE TREND IS USUALLY UP
+If you enter a market and find that you’re making money hand over fist—and you don’t even have a sophisticated sales funnel—then you need to stay ahead of the pack and build that sales funnel out. Cuz the competitors are coming, I promise. On the other hand, if you’re building and cultivating an email list, if you sell products at a wide range of price points, if you have cross-sells and upsells, if you connect to your customers in multiple ways (email, chat, in person, live events, brick and mortar), you grow your roots deeper.
+
+16 April 2013
+YOU MUST DIVERSIFY
+YOU MUST DIVERSIFY
+
+16 April 2013
+YOU MUST DIVERSIFY
+But once you start figuring out the formula, as soon as you start selling, you need to expand into other paid (not necessarily free) media, including: • Google AdWords display network • Google AdWords search • Yahoo!, Bing • Affiliates • Banner ads • Retargeting • Paid insertions in email newsletters • Print advertising • Radio • TV Of course there’s also free media, such as the following: • Search engine optimization • Viral Facebook traffic • Twitter
+
+16 April 2013
+WHAT I LEARNED FROM INFOMERCIALS
+• YouTube• • Newspapers and magazines • Blogs • Publicity
+
+16 April 2013
+WHAT I LEARNED FROM INFOMERCIALS
+Your goal is for none of these to represent more than 20% of your business. Once you achieve that, it becomes very unlikely that any one disaster will tank you.
+
+16 April 2013
+WHAT I LEARNED FROM INFOMERCIALS
+(Tip: If you want to see a sales pitch that has been scientifically proven to work, just watch an infomercial that’s been on the air for three months. I can guarantee you, it’s making money. Take notes and look for ideas you can borrow.) But anyway, in 2002, when I first began using pay per click, I almost instantly knew how the entire AdWords market was going to develop.
+
+16 April 2013
+WHAT I LEARNED FROM INFOMERCIALS
+But anyway, in 2002, when I first began using pay per click, I almost instantly knew how the entire AdWords market was going to develop. Even though it was virgin territory, it was undeveloped, and nobody understood it. I knew that in 10 years it would become a fiercely competitive, dog-eat-dog marketplace and there would be certain things you HAD to do in order to win, and I knew that because I had studied infomercials. You can make the exact same predictions about Facebook.
+
+16 April 2013
+WHAT I LEARNED FROM INFOMERCIALS
+You can make the exact same predictions about Facebook. What does Facebook have to do with infomercials?
+
+16 April 2013
+WHAT I LEARNED FROM INFOMERCIALS
+I knew that pay per click would be a microbusiness version of the same thing, on the internet. And as online advertising matured, I always knew what was next. I knew history repeats itself so I studied history. Here are some factoids about the similarities between infomercials and Facebook that I would like you to think about.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+Every dollar and every minute you spend buying Facebook traffic or any other kind of traffic is a risk and investment of your time. Invest wisely, and your business will prosper. Invest poorly, and you’ll be divorced and stocking shelves at Walmart.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+My friend and mentor Dan Sullivan, founder of Strategic Coach, says, “Entrepreneurs aren’t more honest than everybody else. They just get punished a whole lot faster for lying to themselves.” It’s difficult to imagine a career track with a higher failure rate than the music circuit.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+When I went out on my own, the first order of business was to secure enough monthly retainer income from active consulting projects (hunting) to cover my nut. Then and only then would I embark on a much lengthier process of building a list, selling information, and being a published author (farming). For several years I had three to four consulting clients who collectively more than paid the bills.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+So I could afford to invest in developing a robust information business. Once the consulting business was in place, I stopped taking new clients, tightened my belt a little, and invested in list-building and product development. The product income slowly matched and then replaced the consulting income, giving me more options. The consulting was kind of like shooting fish in a barrel.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+A real nice formula for building a prevailing business with minimal risk is: One Long Shot and Three Fish in a Barrel.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+A real nice formula for building a prevailing business with minimal risk is: One Long Shot and Three Fish in a Barrel. One big project that is long-term and speculative with huge upside potential, and two, three, or four small games you know you can easily win, that will definitely pay the bills, and eliminate the panic factor from your decisions. When people are consumed with fear—and possibly shame because they’re running out of money or whatever—they make bad decisions.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+When people are consumed with fear—and possibly shame because they’re running out of money or whatever—they make bad decisions. Fear alone is always a bad foundation for decision-making.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+If you know how to research markets, understand groups of people, buy clicks from Facebook and sell—then you can write your own checks.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+People sometimes think they’re above doing simple things that pay the bills because they’re enamored with the romance of their long-shot deal.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+People sometimes think they’re above doing simple things that pay the bills because they’re enamored with the romance of their long-shot deal. Not only do they underestimate the task of making the long shot happen, they often don’t recognize that the lesser, related business will teach them many important things they still need to know. A long shot is anything that involves building a list slowly from scratch, extensive and expensive product development, investment of big dollars, slow accumulation of assets.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+A long shot is anything that involves building a list slowly from scratch, extensive and expensive product development, investment of big dollars, slow accumulation of assets. Shooting fish in a barrel is anything where there’s existing, pent-up demand for something you can easily assemble or convert from existing resources, “will-work-for-food” opportunities that pay on an hourly or per-job basis, affiliate or joint venture situations where an existing set of customers can be matched to a new offer.
+
+16 April 2013
+Chapter Twenty-Two - Mind Your Business
+Shooting fish in a barrel is anything where there’s existing, pent-up demand for something you can easily assemble or convert from existing resources, “will-work-for-food” opportunities that pay on an hourly or per-job basis, affiliate or joint venture situations where an existing set of customers can be matched to a new offer. Again, all of these situations come with a side benefit of giving you a view into situations you wouldn’t otherwise be privy too.
+
+16 April 2013
+SELL EARLY, SELL OFTEN
+SELL EARLY, SELL OFTEN
+
+16 April 2013
+SELL EARLY, SELL OFTEN
+If you are building software and are unfunded, try to release a beta version of some minimal working functionality as soon as possible—hopefully within two months of starting the business. Release software when it is too early and have people look at it and try to use it.
+
+16 April 2013
+HORTON HEARS A WHO
+Release software when it is too early and have people look at it and try to use it. Their feedback is priceless. Don’t wait. If you are building software, or any service, try to get someone to pay for it while you are still embarrassed to ask for money. Someone paying for your product or service is the best indication you are not delusional in your start-up idea. Don’t wait. If you’ve never failed, you’ve probably never really pushed yourself hard enough. Fail at something. It is good for the soul. Don’t wait. —Thomas Meloche
+
+16 April 2013
+HORTON HEARS A WHO
+HORTON HEARS A WHO
+
+16 April 2013
+HORTON HEARS A WHO
+When you operate a small, online business, you are a Who. Large animals in the jungle can’t hear you.
+
+16 April 2013
+HORTON HEARS A WHO
+I’m just telling this so you know, there’s pros and cons to being an invisible business. And one of the cons is that some huge beast can flick its tail and push you out of the way. I started this chapter talking about managing risk, and this is just another example.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+I don’t know about you, but all my years of living on planet earth have conditioned me to feel safe only when my feet are on ground that isn’t moving. Even though I had a big cable attached to my chest, even though I could have let go and only fallen six inches—even though I was actually completely safe—I didn’t feel safe. At that point you can only do one of two things: Go up or go down. Finish the climb or quit. I took a 10-second break and collected my thoughts, and what ran through my mind was, Hey, Perry, this is just like every other significant thing you’ve ever done in your life—as scary as all get out, risky, totally unnatural. And it made you nervous because . . . because it mattered. Insignificant things don’t feel that way. Watching TV, eating pizza, and drinking beer—those things don’t make you feel nervous and scared. They don’t shove you out of your comfort zones. I was talking to one of the girls at the camp and told her, “When you feel that nervous, ‘let’s get out of here right now’ feeling, it either means (a) you really […]
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+Life is too short to not go ahead and get totally terrified every now and then. It’s a sign that your soul is still alive and kicking.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+Watching them I realized that people can get used to, and even quite comfortable with, climbing at dizzying heights and doing things that are totally abnormal and terrifying to most people. Not only that, but everything I’ve gotten really good at—everything you’ve gotten really good at in life—was a lot like rope climbing or mountain climbing.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+Not only that, but everything I’ve gotten really good at—everything you’ve gotten really good at in life—was a lot like rope climbing or mountain climbing. Once you’ve acquired a certain level of skill, whether it’s climbing a 10,000 foot peak or making a million dollars a year, it isn’t such a big deal. On a good day, you might not even break a sweat. It’s usually the first 50 feet—making that first dollar of actual profit—that deters most people.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+It’s usually the first 50 feet—making that first dollar of actual profit—that deters most people.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+It’s usually the first 50 feet—making that first dollar of actual profit—that deters most people. Get past that point and the competition thins dramatically. Soon you find you’re not only comfortable with it, but enjoying it. That’s how the serial entrepreneur is born—so addicted to the adventure he or she can’t stop. My friend, I’ve come to recognize that feeling of terror, that icy sensation of exposure and fright, is a signal that what I’ve just begun is important.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+My friend, I’ve come to recognize that feeling of terror, that icy sensation of exposure and fright, is a signal that what I’ve just begun is important. That it ought to be done. The fear is a signal that it’s worthwhile. Yes, you might feel fear when you’ve begun something totally foolish.
+
+16 April 2013
+BIG CHALLENGES, DARK FEARS, AND THE S-T-R-E-T-C-H-I-N-G OF COMFORT ZONES
+The winner takes all, and the winner is you—when you decide to conquer fear and make it your ally.
+
+ALL EXCERPTS FROM
+
+Perry, Marshall. “Ultimate Guide to Facebook Advertising: How to Access 600 Million Customers in 10 Minutes (Ultimate Series).” Entrepreneur Press, 2011-09-30T14:00:00+00:00. iBooks. 
+This material may be protected by copyright.
+
+
+
+Sent from my iPad
