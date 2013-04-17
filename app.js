@@ -2,9 +2,7 @@ var http = require('http');
 var app = http.createServer(handler);
 var io = require('socket.io').listen(app);
 var director = require('director');
-var filed = require('filed');
 var router = new director.http.Router();
-
 var filed = require('filed');
 var iBooksStream = require('./lib/ibooksstream');
 var concat = require('concat-stream');
