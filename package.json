@@ -6,7 +6,7 @@
   },
   "version": "0.0.1",
   "engines": {
-    "node": "0.10.x"
+    "node": "0.8.x"
   },
   "gitHead": "429e9f459e931c3812e6bf54136f1256c3afc6eb",
   "description": "ERROR: No README.md file found!",
