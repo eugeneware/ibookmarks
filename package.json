@@ -16,5 +16,12 @@
   },
   "repository": "",
   "author": "Eugene Ware",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "socket.io": "~0.9.14",
+    "director": "~1.2.0",
+    "filed": "0.0.7",
+    "concat-stream": "~0.1.1",
+    "marked": "~0.2.8"
+  }
 }
