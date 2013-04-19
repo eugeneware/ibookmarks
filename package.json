@@ -12,7 +12,7 @@
     "node": "0.8.x"
   },
   "gitHead": "429e9f459e931c3812e6bf54136f1256c3afc6eb",
-  "description": "ERROR: No README.md file found!",
+  "description": "A simple way to format iBooks notes emails",
   "main": "app.js",
   "directories": {
     "test": "test"
