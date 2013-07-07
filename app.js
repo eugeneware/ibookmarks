@@ -38,7 +38,7 @@ io.sockets.on('connection', function (socket) {
   });
 });
 
-var port = parseInt(process.argv[2]);
+var port = process.env.PORT || 3000;
 
 app.listen(port);
 console.log('Listening on port ' + port);
