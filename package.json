@@ -9,9 +9,8 @@
   },
   "version": "0.0.1-1",
   "engines": {
-    "node": "0.8.x"
+    "node": "0.10.x"
   },
-  "gitHead": "429e9f459e931c3812e6bf54136f1256c3afc6eb",
   "description": "A simple way to format iBooks notes emails",
   "main": "app.js",
   "directories": {
@@ -21,10 +20,10 @@
   "author": "Eugene Ware",
   "license": "BSD",
   "dependencies": {
-    "socket.io": "~0.9.14",
-    "director": "~1.2.0",
-    "filed": "0.0.7",
-    "concat-stream": "~0.1.1",
-    "marked": "~0.2.8"
+    "socket.io": "~0.9.16",
+    "director": "~1.2.2",
+    "filed": "0.1.0",
+    "concat-stream": "~1.4.1",
+    "marked": "~0.3.1"
   }
 }
